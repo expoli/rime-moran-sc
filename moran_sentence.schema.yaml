@@ -26,6 +26,7 @@ switches:
     states: [ 通用, 增廣 ]
   - name: emoji
     states: [ 🈚, 🈶 ]
+    reset: 1
   - name: chaifen
     states: [ 不拆, 扌斥 ]
   - name: unicode_comment
@@ -134,7 +135,7 @@ chaifen:
 emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
-  tips: all
+  tips: none
 
 std_hk:
   opencc_config: t2hk.json

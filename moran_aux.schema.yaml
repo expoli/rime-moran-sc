@@ -26,6 +26,7 @@ switches:
     states: [ 通用, 增廣 ]
   - name: emoji
     states: [ 🈚, 🈶 ]
+    reset: 1
   - name: unicode_comment
     states: [ U關, U開 ]
   - name: dzing
@@ -126,7 +127,7 @@ simplifier:
 emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
-  tips: all
+  tips: none
 
 std_hk:
   opencc_config: t2hk.json

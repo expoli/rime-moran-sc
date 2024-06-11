@@ -19,6 +19,7 @@ switches:
     states: [ 。，, ．， ]
   - name: emoji
     states: [ 🈚, 🈶 ]
+    reset: 1
   - name: chaifen
     states: [ 不拆, 扌斥 ]
   - name: unicode_comment
@@ -122,7 +123,7 @@ simplifier:
 emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
-  tips: all
+  tips: none
 
 chaifen:
   option_name: chaifen
