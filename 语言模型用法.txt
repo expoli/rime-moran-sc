@@ -1,0 +1,22 @@
+默认的八股文模型数据量较小，有需要的话可以替换成其他模型。
+
+群文件有3个模型：
+
+简体华宇模型   zh-hans-t-huayu-v7-bgw  （文件名第二部分是 han"s" ）
+简体fcitx模型  fcitx-zh-hans
+繁体fcitx模型  fcitx-zh-hant
+
+1. 下载语言模型，放到用户目录下
+2. 修改 moran.yaml，把 zh-hans-t-essay-bgw 替换成想用的模型，其他部分不变
+3. 重新部署即可生效
+
+
+octagram 默认的参数设置不一定是最好的，下面的参数供参考：
+  enable_for_sentence:
+    __patch:
+      grammar:
+        # 其他值不变
+        non_collocation_penalty: -24
+        collocation_penalty: -6
+        weak_collocation_penalty: -12
+        rear_penalty: -18
