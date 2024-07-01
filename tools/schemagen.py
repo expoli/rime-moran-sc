@@ -95,7 +95,7 @@ def to_auxiliary_codes(char):
 
 def initialize_pinyin_table(skip_no_pinyin=False):
     global pinyin_table
-    with open(args.pinyin_table, 'r') as f:
+    with open(args.pinyin_table, 'r', encoding='utf-8') as f:
         for line in f:
             [word, pinyin, freq] = line.strip().split('\t')
             if not pinyin and skip_no_pinyin:
@@ -180,7 +180,7 @@ def word_codes(word, pinyin=None):
 
 def read_input_dict():
     table = list()
-    with open(args.input_dict, 'r') as f:
+    with open(args.input_dict, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             if line.startswith('#'):
