@@ -104,13 +104,10 @@ octagram:
   enable_for_sentence:
     __patch:
       grammar:
-        language: zh-hans-t-huayu-v7-bgw
-        collocation_max_length: 6     # 搭配最大长度
-        collocation_min_length: 3     # 搭配最小长度
-        non_collocation_penalty: -24  # 非搭配惩罚
-        collocation_penalty: -6       # 搭配惩罚
-        weak_collocation_penalty: -12 # 弱搭配罚
-        rear_penalty: -18             # 后方处罚
+        language: zh-hans-t-essay-bgw
+        # language: zh-hant-t-s1-tgc
+        collocation_max_length: 4
+        collocation_min_length: 3
   enable_for_fixed:
     __patch:
       grammar:

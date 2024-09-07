@@ -141,7 +141,7 @@ chaifen:
 emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
-  tips: none
+  tips: all
 
 std_hk:
   opencc_config: t2hk.json

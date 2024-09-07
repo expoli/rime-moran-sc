@@ -20,6 +20,8 @@ encoder:
       formula: "AaBaCaCb"
     - length_in_range: [4, 32]
       formula: "AaBaCaZa"
+import_tables:
+  - moran_fixed.symbols
 ...
 
 #----------標點符號----------#
@@ -982,6 +984,7 @@ AA制	aavi
 百步穿楊	bbiy
 步步緊逼	bbjb
 不變價格	bbjg
+白白淨淨	bbjj
 變本加厲	bbjl
 比比皆是	bbju
 標本兼治	bbjv
@@ -1009,6 +1012,7 @@ AA制	aavi
 兵敗如山倒	bbrd
 並不認爲	bbrw
 並不容易	bbry
+白白送死	bbss
 巴比特合金	bbtj
 蹦蹦跳跳	bbtt
 並不是	bbu
@@ -1456,7 +1460,8 @@ AA制	aavi
 不法行爲	bfxw
 奔瀉	bfxx
 本性	bfxy
-翉	bfy
+暴風雨	bfy
+翉	bfyb
 本頁	bfye
 本業	bfye
 八分音符	bfyf
@@ -2916,6 +2921,7 @@ AA制	aavi
 拜年	blnm
 擺弄	blns
 玻璃瓶	blp
+白嫖	blpc
 白胖	blph
 白皮	blpi
 擺譜	blpu
@@ -2928,6 +2934,7 @@ AA制	aavi
 不留情面	blqm
 白裙	blqp
 壁立千仞	blqr
+敗犬	blqr
 博覽羣書	blqu
 白區	blqu
 伯	blr
@@ -3774,6 +3781,7 @@ AA制	aavi
 必死無疑	bswy
 變速運動	bsyd
 不隨意肌	bsyj
+不同	bt
 比特	bt
 变态啊	bta
 不太安全	btaq
@@ -4133,8 +4141,8 @@ AA制	aavi
 餔	buuf
 不勝	buug
 補上	buuh
-不是	buui
 不適	buui
+捕食	buui
 不失時機	buuj
 不少	buuk
 不說	buuo
@@ -4735,6 +4743,7 @@ Bilibili	bvj
 秉	byp
 並排	bypl
 冰片	bypm
+兵	byq
 編譯器	byq
 兵	byqb
 冰橇	byqc
@@ -4743,6 +4752,7 @@ Bilibili	bvj
 兵器	byqi
 摒棄	byqi
 屏氣	byqi
+編譯器	byqi
 半夜敲門心不驚	byqj
 不遠千里	byql
 冰球	byqq
@@ -5207,6 +5217,8 @@ Bilibili	bvj
 纔不信	cbx
 湊興	cbxy
 湊足	cbzu
+從此	cc
+此次	cc
 措辭不當	ccbd
 寸草不留	ccbl
 參差不齊	ccbq
@@ -5313,7 +5325,7 @@ Bilibili	bvj
 策應	ceyy
 冊子	cezi
 側足	cezu
-涔	cf
+岑	cf
 此伏彼起	cfbq
 此風不可長	cfbv
 涔涔	cfcf
@@ -5325,8 +5337,8 @@ Bilibili	bvj
 粗放經營	cfjy
 餐風露宿	cfls
 餐風沐雨	cfmy
-叄	cfs
 餐風宿露	cfsl
+叄	cfss
 村夫俗子	cfsz
 岑	cfu
 嵾	cfup
@@ -5474,6 +5486,7 @@ Bilibili	bvj
 藏蹤	chzs
 催化作用	chzy
 此	ci
+次	ci
 朿	cia
 慈愛	ciai
 此岸	cian
@@ -5730,6 +5743,7 @@ Bilibili	bvj
 參禪	cjij
 殘喘	cjir
 蚕	cjit
+C++	cjj
 慘叫	cjjc
 殘疾	cjji
 參見	cjjm
@@ -5778,6 +5792,7 @@ Bilibili	bvj
 從諫如流	cjrl
 草菅人命	cjrm
 從儉入奢易	cjry
+參	cjs
 參	cjs
 慚色	cjse
 蠶桑	cjsh
@@ -5853,8 +5868,8 @@ Bilibili	bvj
 艸	ckc
 草測	ckce
 曹操	ckck
-參考參考	ckck
 草草	ckck
+參考參考	ckck
 草叢	ckcs
 漕	ckd
 草地	ckdi
@@ -6898,6 +6913,7 @@ Bilibili	bvj
 存亡未卜	cwwb
 從未有過	cwyg
 才行	cx
+操作系統	cx
 此消彼長	cxbv
 磁性材料	cxcl
 操心操心	cxcx
@@ -7823,6 +7839,7 @@ Bilibili	bvj
 代代相傳	ddxi
 東倒西歪	ddxw
 斷斷續續	ddxx
+大大小小	ddxx
 大跌眼鏡	ddyj
 獨當一面	ddym
 倒打一耙	ddyp
@@ -8561,6 +8578,7 @@ Bilibili	bvj
 地政	divg
 抵賬	divh
 地址	divi
+抵制	divi
 抵債	divl
 地磚	divr
 地主	divu
@@ -8744,6 +8762,7 @@ Bilibili	bvj
 對講機	djj
 單交	djjc
 丹江	djjd
+丼	djjd
 等價交換	djjh
 單機	djji
 淡季	djji
@@ -8916,6 +8935,7 @@ Bilibili	bvj
 丁腈橡膠	djxj
 單線	djxm
 擔心	djxn
+單休	djxq
 單選	djxr
 愖	djxu
 但需	djxu
@@ -8948,7 +8968,7 @@ Bilibili	bvj
 但與	djyu
 蕩檢逾閑	djyx
 訑	djyy
-大舅子	djz
+單子	djz
 度君子之腹	djzf
 鬥雞走狗	djzg
 單字	djzi
@@ -9225,6 +9245,7 @@ Bilibili	bvj
 帶點	dldm
 帶電	dldm
 怠惰	dldo
+頓了頓	dldp
 顛來倒去	dldq
 帶動	dlds
 點了點頭	dldt
@@ -9919,7 +9940,6 @@ Bilibili	bvj
 敦厚	dphb
 敦煌	dphd
 頓號	dphk
-囤貨	dpho
 鈍化	dphw
 蜳	dpi
 打破常規	dpig
@@ -9934,7 +9954,6 @@ Bilibili	bvj
 噸	dpk
 蹲坑	dpkg
 囤	dpkt
-囤糧	dpld
 顛沛流離	dpll
 地痞流氓	dplm
 簞瓢陋巷	dplx
@@ -10240,7 +10259,6 @@ Bilibili	bvj
 東道	dsdk
 東段	dsdr
 顛三倒四	dsds
-顛三顛四	dsds
 洞	dsdt
 東渡	dsdu
 湩	dsdv
@@ -10280,11 +10298,12 @@ Bilibili	bvj
 冬蟲	dsis
 冬初	dsiu
 第三產業	dsiy
-電視劇	dsj
+丼	dsj
 東郊	dsjc
-第四季度	dsjd
 凍僵	dsjd
 第三季度	dsjd
+第四季度 dsjd
+丼	dsjd
 冬季	dsji
 動機	dsji
 洞見	dsjm
@@ -10937,7 +10956,6 @@ Bilibili	bvj
 動物纖維	dwxw
 對外友好協會	dwyh
 第五縱隊	dwzd
-爹	dx
 東西	dx
 大興安嶺	dxal
 多行不義必自斃	dxbb
@@ -11136,6 +11154,7 @@ Bilibili	bvj
 定額	dyee
 掟	dyf
 等因奉此	dyfc
+獨一份	dyff
 頂峰	dyfg
 頂峯	dyfg
 訂房	dyfh
@@ -11177,8 +11196,8 @@ Bilibili	bvj
 釘	dyj
 電影劇本	dyjb
 頂角	dyjc
-第一季度	dyjd
 錠	dyjd
+第一季度	dyjd
 答疑解惑	dyjh
 頂級	dyji
 東一句西一句	dyjj
@@ -11337,6 +11356,7 @@ Bilibili	bvj
 大隱隱於市	dyyu
 第一樂章	dyyv
 第一印象	dyyx
+大語言模型	dyyx
 得意洋洋	dyyy
 定於一尊	dyyz
 的樣子	dyz
@@ -14040,6 +14060,7 @@ Bilibili	bvj
 富足	fuzu
 負罪	fuzv
 反正	fv
+分鐘	fv
 放這吧	fvb
 風燭殘年	fvcn
 付諸東流	fvdl
@@ -14142,10 +14163,10 @@ Bilibili	bvj
 芳香撲鼻	fxpb
 分析器	fxq
 赴險如夷	fxry
+繁星似錦	fxsj
 法西斯主義	fxsy
 放下屠刀	fxtd
 風險投資	fxtz
-繁星似錦	fxuj
 方興未艾	fxwa
 發現問題	fxwt
 非線性	fxx
@@ -14308,8 +14329,8 @@ Bilibili	bvj
 飛架	fzjw
 費解	fzjx
 非經	fzjy
-啡	fzk
-匪	fzkf
+匪	fzk
+啡	fzkf
 吠	fzkq
 匪窟	fzku
 飛跨	fzkw
@@ -14500,6 +14521,7 @@ Bilibili	bvj
 噶廈	gaxw
 尬	gay
 苟安一隅	gayy
+曱甴	gaza
 高傲自大	gazd
 嘎子	gazi
 夠	gb
@@ -17686,11 +17708,12 @@ Bilibili	bvj
 高枕無憂	gvwy
 歸位	gvwz
 瑰偉	gvwz
-窐	gvx
+恑	gvx
 貴校	gvxc
 歸降	gvxd
 歸向	gvxd
 掛職下放	gvxf
+窐	gvxg
 歸西	gvxi
 歸心	gvxn
 閨秀	gvxq
@@ -18129,6 +18152,7 @@ Bilibili	bvj
 故作姿態	gzzt
 給足	gzzu
 和	h	hehk
+還是	h
 哈	ha
 哈達	hada
 哈佛	hafo
@@ -18616,6 +18640,7 @@ Bilibili	bvj
 合併	heby
 河北	hebz
 荷	hec
+何曾	hecg
 菏	hech
 賀詞	heci
 喝彩	hecl
@@ -18834,7 +18859,6 @@ Bilibili	bvj
 合奏	hezb
 菏澤	heze
 呵責	heze
-何曾	hezg
 合葬	hezh
 盒子	hezi
 合資	hezi
@@ -19608,6 +19632,7 @@ Bilibili	bvj
 浩蕩	hkdh
 濠	hkdh
 澔	hkdh
+好滴	hkdi
 會哭的孩子有奶喫	hkdi
 好歹	hkdl
 好點	hkdm
@@ -20939,6 +20964,7 @@ Bilibili	bvj
 宏願	hsyr
 紅魚	hsyu
 紅字	hszi
+何似在人間	hszj
 紅棗	hszk
 洪災	hszl
 揮灑自如	hszr
@@ -21284,7 +21310,6 @@ Bilibili	bvj
 湖澤	huze
 紅十字會	huzh
 鬍子	huzi
-何似在人間	huzj
 婚生子女	huzn
 會	hv
 灰暗	hvan
@@ -21513,6 +21538,7 @@ Bilibili	bvj
 回送	hvss
 回溯	hvsu
 回頭	hvtb
+回調	hvtc
 回趟	hvth
 會堂	hvth
 會談	hvtj
@@ -23954,7 +23980,6 @@ Bilibili	bvj
 產	ijw
 出家爲僧	ijws
 產物	ijwu
-朝九晚五	ijww
 懺	ijx
 產銷	ijxc
 饞涎	ijxm
@@ -24143,6 +24168,7 @@ Bilibili	bvj
 訬	iky
 喫糠咽菜	ikyc
 朝野	ikye
+朝陽	ikyh
 超逸	ikyi
 潮音	ikyn
 超員	ikyr
@@ -25108,6 +25134,7 @@ Bilibili	bvj
 絀	ius
 出色	iuse
 出喪	iush
+仇深似海	iush
 處死	iusi
 初四	iusi
 初三	iusj
@@ -25138,7 +25165,6 @@ Bilibili	bvj
 出神	iuuf
 出生	iuug
 畜生	iuug
-仇深似海	iuuh
 廚師	iuui
 出示	iuui
 出山	iuuj
@@ -25364,6 +25390,7 @@ Bilibili	bvj
 臭味相投	iwxt
 成爲一個	iwyg
 程序	ix
+出現	ix
 插線板	ixb
 朝鮮半島	ixbd
 癡心不改	ixbg
@@ -26872,6 +26899,7 @@ Bilibili	bvj
 箕	jivq
 攲	jivq
 集中	jivs
+幾種	jivs
 就喫這一套	jivt
 記住	jivu
 脊椎	jivv
@@ -26977,6 +27005,7 @@ Bilibili	bvj
 計將安出	jjai
 精簡版	jjb
 結結巴巴	jjbb
+解決辦法	jjbf
 久假不歸	jjbg
 敬酒不喫喫罰酒	jjbj
 解決不了	jjbl
@@ -27244,7 +27273,7 @@ Bilibili	bvj
 兼併	jmby
 兼備	jmbz
 蹇	jmbz
-艱	jmc
+薦	jmc
 荐	jmcc
 薦	jmcd
 檢測	jmce
@@ -27307,7 +27336,7 @@ Bilibili	bvj
 揃	jmfq
 肩負	jmfu
 減肥	jmfz
-戩	jmg
+艱	jmg
 建構	jmgb
 雞鳴狗盜	jmgd
 韉	jmgd
@@ -27317,6 +27346,7 @@ Bilibili	bvj
 靬	jmgg
 幵	jmgg
 加盟共和國	jmgg
+戩	jmgj
 鞬	jmgj
 箭桿	jmgj
 見過	jmgo
@@ -27937,6 +27967,7 @@ Bilibili	bvj
 幾乎	johu
 幾句	joju
 幾塊	joky
+幾率	jolv
 幾秒	jomc
 幾名	jomy
 幾年	jonm
@@ -27954,6 +27985,7 @@ Bilibili	bvj
 幾十	joui
 幾周	jovb
 幾張	jovh
+幾種	jovs
 幾萬	jowj
 幾位	jowz
 幾下	joxw
@@ -28252,6 +28284,7 @@ Bilibili	bvj
 架橋鋪路	jqpl
 糾偏	jqpm
 就聘	jqpn
+激情澎湃	jqpp
 精確匹配	jqpp
 酒瓶	jqpy
 敬請期待	jqqd
@@ -28521,6 +28554,7 @@ Bilibili	bvj
 吉人自有天相	jrzx
 矯揉造作	jrzz
 囧	js
+計算	js
 鼏	jsb
 鼏	jsbd
 見死不救	jsbj
@@ -28590,6 +28624,7 @@ Bilibili	bvj
 九死一生	jsyu
 迥	jsz
 覺	jt
+今天	jt
 孓	jta
 剪貼板	jtb
 絕壁	jtbi
@@ -29092,7 +29127,7 @@ Bilibili	bvj
 精神衰弱	juur
 拘束	juuu
 精神十足	juuz
-瞿	juv
+雎	juv
 技術裝備	juvb
 技術指導	juvd
 舉着	juve
@@ -29107,6 +29142,7 @@ Bilibili	bvj
 貗	juvl
 舉債	juvl
 舉世矚目	juvm
+瞿	juvo
 雎	juvq
 居中	juvs
 舉重	juvs
@@ -30121,6 +30157,7 @@ Bilibili	bvj
 鏡	jyj
 驚叫	jyjc
 精講	jyjd
+丼	jyjd
 家有家規	jyjg
 經濟	jyji
 競技	jyji
@@ -30233,6 +30270,7 @@ Bilibili	bvj
 精銳	jyrv
 經	jys
 景色	jyse
+驕陽似火	jysh
 競賽	jysl
 見異思遷	jysq
 驚悚	jyss
@@ -30265,7 +30303,6 @@ Bilibili	bvj
 精深	jyuf
 井繩	jyug
 經商	jyuh
-驕陽似火	jyuh
 解疑釋惑	jyuh
 警示	jyui
 節約時間	jyuj
@@ -30482,8 +30519,9 @@ Bilibili	bvj
 口供	kbgs
 恐怖活動	kbhd
 口號	kbhk
-扣還	kbhl
+口嗨	kbhl
 叩閽	kbhp
+扣還	kbhr
 口紅	kbhs
 口惠	kbhv
 看不出	kbi
@@ -31022,6 +31060,7 @@ Bilibili	bvj
 開國大典	kgdd
 坑道	kgdk
 坑爹	kgdx
+阬	kge
 客觀規律	kggl
 跨國公司	kggs
 坑害	kghl
@@ -31085,6 +31124,7 @@ Bilibili	bvj
 開懷大笑	khdx
 康定	khdy
 邟	khe
+阬	khek
 口惠而實不至	khev
 抗	khf
 抗法	khfa
@@ -31204,6 +31244,7 @@ Bilibili	bvj
 空間複雜度	kjfd
 克己奉公	kjfg
 看房	kjfh
+看番	kjfj
 克己復禮	kjfl
 快捷方式	kjfu
 戡	kjg
@@ -31658,6 +31699,7 @@ Bilibili	bvj
 困難重重	knii
 卡那黴素	knms
 可能是	knu
+可能性	knx
 可能有	kny
 擴	ko
 鬠	kobh
@@ -33858,6 +33900,7 @@ Bilibili	bvj
 利嘴	lizv
 亂臣賊子	lizz
 藍	lj
+鏈接	lj
 劣跡斑斑	ljbb
 藍本	ljbf
 屢教不改	ljbg
@@ -33873,15 +33916,15 @@ Bilibili	bvj
 攬存	ljcp
 歷盡滄桑	ljcs
 亂箭攢心	ljcx
-瀾	ljd
+濫	ljd
 爛掉	ljdc
 濫調	ljdc
 懶得	ljde
 攔擋	ljdh
 藍底	ljdi
-濫	ljdj
 灡	ljdj
 拉家帶口	ljdk
+瀾	ljdl
 懶怠	ljdl
 藍靛	ljdm
 懶惰	ljdo
@@ -34307,7 +34350,7 @@ Bilibili	bvj
 來客	llke
 來看	llkj
 寥寥可數	llku
-狼來了	lll
+來了	lll
 來啦	llla
 來料	lllc
 來了	llle
@@ -34997,7 +35040,9 @@ Bilibili	bvj
 掄起	lpqi
 倫琴	lpqn
 倫	lpr
+侖	lpr
 侖	lprc
+倫	lprl
 綸	lps
 淪喪	lpsh
 埨	lpt
@@ -35305,6 +35350,7 @@ Bilibili	bvj
 令人尷尬	lrgg
 亂搞	lrgk
 令人感慨	lrgk
+令人感嘆	lrgt
 令人鼓舞	lrgw
 令人高興	lrgx
 卵黃	lrhd
@@ -35685,6 +35731,7 @@ Bilibili	bvj
 量身定做	ludz
 陸	lue
 擼	luf
+路縫	lufg
 錄放	lufh
 擄	lufl
 摝	lufl
@@ -35868,8 +35915,8 @@ Bilibili	bvj
 歷史學家	luxj
 流水線計算機	luxj
 路線	luxm
-玈	luxp
 魯迅	luxp
+玈	luxp
 陸續	luxu
 來勢洶洶	luxx
 老少咸宜	luxy
@@ -36841,6 +36888,7 @@ Bilibili	bvj
 密不透風	mbtf
 某天	mbtm
 馬不停蹄	mbtt
+莫不是	mbu
 謀殺	mbua
 目不識丁	mbud
 明辨是非	mbuf
@@ -37543,6 +37591,7 @@ Bilibili	bvj
 獼	miq
 名垂千古	miqg
 明察秋毫	miqh
+眯起	miqi
 明察秋毫之末	miqm
 覓求	miqq
 名垂青史	miqu
@@ -39373,12 +39422,14 @@ Bilibili	bvj
 媚眼如絲	myrs
 名儒	myru
 妙語如珠	myrv
+沒意思	mys
 名譽掃地	mysd
 名揚四海	mysh
 冥思	mysi
 沒有什麼	mysm
 名宿	mysu
 買一送一	mysy
+每一天	myt
 名頭	mytb
 名特	myte
 名堂	myth
@@ -39850,7 +39901,6 @@ Bilibili	bvj
 那不會	nbh
 牛逼哄哄	nbhh
 牛屄哄哄	nbhh
-牛不喝水強按頭	nbht
 那不成	nbi
 拿不出手	nbiu
 鎒	nbj
@@ -40092,7 +40142,7 @@ Bilibili	bvj
 曩	nho
 囊胚	nhpz
 拈花惹草	nhrc
-年華似水	nhuu
+年華似水	nhsu
 囊腫	nhvs
 怒火中燒	nhvu
 吶喊助威	nhvw
@@ -40161,6 +40211,7 @@ Bilibili	bvj
 妮	nin
 妳	nine
 婗	nine
+你能	ning
 能喫能喝	ninh
 呢喃	ninj
 泥淖	nink
@@ -41719,6 +41770,7 @@ Bilibili	bvj
 懿	oayx
 偶氮染料	odrl
 藕斷絲連	odsl
+偶爾	oe
 歐羅巴人種	olbv
 歐姆定律	omdl
 哦豁	ooho
@@ -41727,7 +41779,6 @@ Bilibili	bvj
 喔	ookw
 哦	ookw
 哦哦哦	ooo
-操作系統	os
 歐	ou
 藕	ouc
 藲	oucq
@@ -42247,6 +42298,7 @@ PC端	pcdr
 旁及	phji
 耪	phl
 澎湖列島	phld
+破壞力	phli
 旁落	phlo
 炮火連天	phlt
 旁路	phlu
@@ -43949,10 +44001,11 @@ PC端	pcdr
 曲不離口	qblk
 拳不離手	qblu
 豈不美哉	qbmz
-去不去	qbq
+瞧不起	qbq
 妻不如妾	qbrq
 妾不如偷	qbrt
 千比特	qbt
+豈不是	qbu
 卻不是	qbu
 七八十歲	qbus
 缺邊少沿	qbuy
@@ -44368,6 +44421,7 @@ PC端	pcdr
 全國第一	qgdy
 全國各地	qggd
 全國冠軍	qggj
+羣公告	qggk
 曲高和寡	qghg
 去國懷鄉	qghx
 氣貫長虹	qgih
@@ -44802,6 +44856,7 @@ PC端	pcdr
 企穩	qiwf
 期望	qiwh
 悽婉	qiwj
+玘	qiwj
 其外	qiwl
 棄	qiwm
 甈	qiwn
@@ -45579,6 +45634,7 @@ PC端	pcdr
 羣友	qpyb
 裙	qpyj
 千篇一律	qpyl
+羣員	qpyr
 羣英	qpyy
 逡	qpz
 裙子	qpzi
@@ -46289,6 +46345,7 @@ PC端	pcdr
 區分	quff
 曲風	qufg
 趨奉	qufg
+取反	qufj
 屈服	qufu
 屈光	qugd
 趨光	qugd
@@ -47955,11 +48012,11 @@ PC端	pcdr
 如夢如幻	rmrh
 人模人樣	rmry
 入木三分	rmsf
+如夢似幻	rmsh
 人面桃花	rmth
 人民調解	rmtj
 日暮途窮	rmtq
 人民團體	rmtt
-如夢似幻	rmuh
 人面獸心	rmux
 戎馬生涯	rmuy
 入幕之賓	rmvb
@@ -48070,10 +48127,10 @@ PC端	pcdr
 人前人後	rqrh
 入情入理	rqrl
 如泣如訴	rqrs
+柔情似水	rqsu
 熱氣騰騰	rqtt
 忍氣吞聲	rqtu
 人情世故	rqug
-柔情似水	rquu
 如期實現	rqux
 人窮志短	rqvd
 如期完成	rqwi
@@ -48457,8 +48514,8 @@ PC端	pcdr
 入神	ruuf
 儒生	ruug
 如上	ruuh
-入市	ruui
 如實	ruui
+入市	ruui
 如數	ruuu
 入睡	ruuv
 肉食者鄙	ruvb
@@ -48864,6 +48921,7 @@ PC端	pcdr
 死到臨頭	sdlt
 四大名著	sdmv
 死得其所	sdqs
+死對頭	sdt
 蘇打水	sdu
 鎖定勝局	sduj
 速凍食品	sdup
@@ -49028,6 +49086,7 @@ PC端	pcdr
 桑蠶	shcj
 掃黃打非	shdf
 喪膽	shdj
+搡	shf
 死灰復燃	shfr
 喪服	shfu
 死灰槁木	shgm
@@ -49593,6 +49652,7 @@ PC端	pcdr
 溯流而上	sleu
 賽風	slfg
 斯洛伐克	slfk
+似理非理	slfl
 斯拉夫人	slfr
 賽過	slgo
 塞規	slgv
@@ -49689,6 +49749,7 @@ PC端	pcdr
 什麼情況	smqk
 司馬青衫	smqu
 什麼人	smr
+似模似樣	smsy
 什麼是	smu
 四面受敵	smud
 什么時候	smuh
@@ -49696,6 +49757,7 @@ PC端	pcdr
 三昧真火	smvh
 司馬昭之心	smvx
 三民主義	smvy
+什麼玩意	smwy
 喪門星	smx
 四目相對	smxd
 算命先生	smxu
@@ -50253,6 +50315,7 @@ PC端	pcdr
 鷫	sun
 三十年河東	sund
 嗉囊	sunh
+似水年華	sunh
 隨手拈來	sunl
 俗念	sunm
 夙諾	suno
@@ -50585,6 +50648,7 @@ PC端	pcdr
 歲月荏苒	syrr
 歲月如梭	syrs
 啥意思	sys
+似有似無	sysw
 蘇伊士運河	syuh
 所以說呢	syun
 所有值	syv
@@ -50618,6 +50682,9 @@ PC端	pcdr
 踏步	tabu
 漯	tad
 塔吊	tadc
+他的	tade
+她的	tade
+它的	tade
 涾	tadt
 塔頂	tady
 拓	taf
@@ -50656,6 +50723,8 @@ PC端	pcdr
 闥	tamd
 榙	tamd
 他們	tamf
+她們	tamf
+它們	tamf
 天安門廣場	tami
 闟	tamx
 闒	tamy
@@ -50688,6 +50757,7 @@ PC端	pcdr
 踏雪	taxt
 鰨	tay
 拓印	tayn
+他用	tays
 誻	tayt
 踏	taz
 遝	tazd
@@ -51200,7 +51270,8 @@ PC端	pcdr
 特邀	teyk
 特約	teyt
 鋌而走險	tezx
-突發	tf
+頭髮	tf
+頹廢	tf
 挺方便的	tfbd
 通風報信	tfbx
 天翻地覆	tfdf
@@ -51367,12 +51438,13 @@ PC端	pcdr
 唐朝	thik
 螗	thit
 蝪	thiy
-鏜	thj
+帑	thj
 糖漿	thjd
 钂	thjd
 湯劑	thji
-帑	thjn
 燙金	thjn
+帑	thjn
+鏜	thjt
 鐋	thjt
 湯加	thjw
 堂姐	thjx
@@ -51530,6 +51602,7 @@ PC端	pcdr
 體	tig
 體格	tige
 提綱	tigh
+體感	tigj
 提幹	tigj
 提高	tigk
 體改	tigl
@@ -52205,6 +52278,7 @@ PC端	pcdr
 抬舉	tlju
 擡價	tljw
 臺階	tljx
+太卡	tlka
 太狂	tlkd
 脫離苦海	tlkh
 抬扛	tlkh
@@ -52339,6 +52413,7 @@ PC端	pcdr
 臺鑽	tlzr
 太祖	tlzu
 天	tm
+他們	tm
 田	tma
 天啊	tmaa
 天安	tman
@@ -52410,12 +52485,13 @@ PC端	pcdr
 田產	tmij
 天朝	tmik
 填充	tmis
-靦	tmj
+覥	tmj
 天驕	tmjc
 天將	tmjd
 甜醬	tmjd
 天際	tmji
 田間	tmjm
+靦	tmjm
 天津	tmjn
 甜酒	tmjq
 銛	tmju
@@ -52774,6 +52850,7 @@ PC端	pcdr
 吞服	tpfu
 庉	tpg
 焞	tph
+囤貨	tpho
 蜳	tpi
 蛌	tpig
 吞喫	tpii
@@ -52786,6 +52863,7 @@ PC端	pcdr
 囤聚	tpju
 囤	tpk
 屯墾	tpkf
+囤糧	tpld
 吞了	tple
 屯落	tplo
 太平龍頭	tplt
@@ -54146,6 +54224,7 @@ PC端	pcdr
 替罪羊	tzy
 投資銀行	tzyh
 是	u	uiop
+時	u
 啥	ua
 痧	uab
 沙壩	uaba
@@ -54318,6 +54397,7 @@ PC端	pcdr
 瘦	ubbs
 誓不罷休	ubbx
 瘦癟	ubbx
+手柄	ubby
 十八般武藝	ubby
 上半輩子	ubbz
 手背	ubbzo
@@ -54547,7 +54627,7 @@ PC端	pcdr
 手鬆	ubss
 手速	ubsu
 守歲	ubsv
-傻白甜	ubt
+雙胞胎	ubt
 手頭	ubtb
 收條	ubtc
 壽堂	ubth
@@ -55329,6 +55409,7 @@ PC端	pcdr
 生湊	ugcb
 生詞	ugci
 聖餐	ugcj
+生草	ugck
 繩操	ugck
 生菜	ugcl
 剩菜	ugcl
@@ -56215,7 +56296,6 @@ PC端	pcdr
 師生	uiug
 時尚	uiuh
 實施	uiui
-試試	uiui
 蝕	uiui
 飾	uiuj
 山重水複疑無路	uiul
@@ -56825,7 +56905,6 @@ PC端	pcdr
 失了分寸	ulfc
 水力發電	ulfd
 篩分	ulff
-似理非理	ulfl
 摋	ulfu
 水力發電站	ulfv
 骰	ulg
@@ -56939,7 +57018,6 @@ PC端	pcdr
 熟門熟路	umul
 雙目失明	umum
 山明水秀	umux
-似模似樣	umuy
 贖買政策	umvc
 生米煮成熟飯	umvf
 盛名之下無虛士	umvu
@@ -57339,6 +57417,7 @@ PC端	pcdr
 水天一色	utys
 石頭子兒	utze
 書	uu
+試試	uu
 束	uua
 書案	uuan
 熟諳	uuan
@@ -57464,8 +57543,8 @@ PC端	pcdr
 嗜殺成性	uuix
 鼠	uuj
 樹膠	uujc
-書記	uuji
 書籍	uuji
+書記	uuji
 實時計算機	uujj
 十室九空	uujk
 實時監控	uujk
@@ -57534,7 +57613,6 @@ PC端	pcdr
 橾	uumz
 姝	uun
 孰能	uung
-似水年華	uunh
 數你	uuni
 世事難料	uunl
 數年	uunm
@@ -58174,8 +58252,7 @@ PC端	pcdr
 上下一心	uxyx
 雙向總線	uxzx
 上下左右	uxzy
-帅	uy
-帅	uya
+帥	uy
 生意盎然	uyar
 試用版	uyb
 說一不二	uybe
@@ -58293,7 +58370,6 @@ PC端	pcdr
 孰優孰劣	uyul
 使用說明	uyum
 吮癰舐痔	uyuv
-似有似無	uyuw
 時有時無	uyuw
 時隱時現	uyux
 世易時移	uyuy
@@ -58773,6 +58849,7 @@ PC端	pcdr
 妝容	vdrs
 真的是	vds
 撞死	vdsi
+狀似	vdsi
 撞鎖	vdso
 裝蒜	vdsr
 重大損失	vdsu
@@ -58790,7 +58867,6 @@ PC端	pcdr
 真的是一個	vdug
 裝上	vduh
 裝飾	vdui
-狀似	vdui
 撞衫	vduj
 重大事件	vduj
 裝束	vduu
@@ -60383,6 +60459,7 @@ PC端	pcdr
 助桀爲虐	vjwn
 站務	vjwu
 至今爲止	vjwv
+朝九晚五	vjww
 站位	vjwz
 正襟危坐	vjwz
 怗	vjx
@@ -60754,8 +60831,9 @@ PC端	pcdr
 專門利人	vmlr
 這麼麻煩	vmmf
 這麼牛	vmn
-這麼窮	vmq
 這麼巧	vmq
+這麼強	vmq
+這麼窮	vmq
 致命弱點	vmrd
 知名人士	vmru
 正面人物	vmrw
@@ -61027,6 +61105,7 @@ PC端	pcdr
 撰	vrf
 轉發	vrfa
 專訪	vrfh
+主人公	vrg
 轉崗	vrgh
 專幹	vrgj
 轉幹	vrgj
@@ -61457,6 +61536,7 @@ PC端	pcdr
 治絲益棼	vsyf
 中央	vsyh
 中醫	vsyi
+鍾意	vsyi
 忠言	vsyj
 重要	vsyk
 中藥	vsyk
@@ -61503,6 +61583,7 @@ PC端	pcdr
 指天誓日	vtur
 知疼着熱	vtvr
 折騰折騰	vtvt
+諸天萬界	vtwj
 針頭線腦	vtxn
 偵探小說	vtxu
 蒸騰作用	vtzy
@@ -61769,6 +61850,7 @@ PC端	pcdr
 主題	vuti
 主體	vuti
 燭臺	vutl
+諸天	vutm
 囑託	vuto
 駐屯	vutp
 竹筒	vuts
@@ -62099,6 +62181,7 @@ PC端	pcdr
 佔爲己有	vwjy
 賺外快	vwk
 抓狂	vwkd
+抓来	vwll
 張王李趙	vwlv
 檛	vwm
 真僞莫辨	vwmb
@@ -63229,6 +63312,7 @@ WiFi	wifi
 婠	wjng
 萬難	wjnj
 皖南	wjnj
+玩鬧	wjnk
 萬年	wjnm
 晚年	wjnm
 玩弄	wjns
@@ -63664,6 +63748,7 @@ WiFi	wifi
 臥槽	wock
 薶	wocl
 沃	wod
+我都	wodb
 濣	wodd
 渦	wodg
 濄	wodg
@@ -63684,6 +63769,7 @@ WiFi	wifi
 臥軌	wogv
 倭瓜	wogw
 窩火	woho
+我會	wohv
 臥	woi
 臥牀	woid
 臥車	woie
@@ -63695,6 +63781,7 @@ WiFi	wifi
 幄	woj
 握緊	wojn
 我軍	wojp
+我就	wojq
 蝸居	woju
 萵苣	woju
 窩家	wojw
@@ -63745,10 +63832,12 @@ WiFi	wifi
 窩窩	wowo
 喔喔	wowo
 窩	wox
+我想	woxd
 窩心	woxn
 斡旋	woxr
 握有	woyb
 沃野	woye
+我要	woyk
 踒	woz
 窩贓	wozh
 窩子	wozi
@@ -64037,6 +64126,7 @@ WiFi	wifi
 物產	wuij
 吾儕	wuil
 誤傳	wuir
+無重	wuis
 誤觸	wuiu
 無處	wuiu
 螐	wuiw
@@ -64229,7 +64319,6 @@ WiFi	wifi
 污濁	wuvo
 外生殖器	wuvq
 物種	wuvs
-無重	wuvs
 無助	wuvu
 捂住	wuvu
 萬獸之王	wuvw
@@ -64437,6 +64526,8 @@ WiFi	wifi
 勿忘在莒	wwzj
 嗡嗡作響	wwzx
 微信	wx
+微小	wx
+微笑	wx
 外興安嶺	wxal
 吳下阿蒙	wxam
 戊戌變法	wxbf
@@ -64501,6 +64592,7 @@ WiFi	wifi
 五項原則	wxyz
 無形資產	wxzi
 無性雜交	wxzj
+唯一	wy
 我也	wy
 晚一步	wyb
 亡羊補牢	wybl
@@ -65096,6 +65188,7 @@ WiFi	wifi
 庨	xcgx
 髐	xcgy
 烋	xch
+蕭何	xche
 小河	xche
 小鶴	xche
 熇	xchg
@@ -65739,6 +65832,7 @@ WiFi	wifi
 先發優勢	xfyu
 興風作浪	xfzl
 修改	xg
+習慣	xg
 興國安邦	xgab
 心肝寶貝	xgbb
 縣官不如現管	xgbg
@@ -66199,6 +66293,7 @@ WiFi	wifi
 吸吮	xiup
 餼	xiuq
 禊	xiuq
+稀疏	xiuu
 係數	xiuu
 洗漱	xiuu
 溪水	xiuv
@@ -66798,6 +66893,7 @@ WiFi	wifi
 嫌疑	xmyi
 鮮豔	xmyj
 蓄謀已久	xmyj
+信馬由繮	xmyj
 險要	xmyk
 顯要	xmyk
 心明眼亮	xmyl
@@ -66856,10 +66952,10 @@ WiFi	wifi
 新店	xndm
 心動	xnds
 信度	xndu
-釁	xndy
 心定	xndy
 阠	xne
 小女兒狀	xnev
+釁	xnf
 心法	xnfa
 信封	xnfg
 新房	xnfh
@@ -66906,6 +67002,7 @@ WiFi	wifi
 鋅	xnj
 新教	xnjc
 新疆	xnjd
+釁	xnjf
 心機	xnji
 心急	xnji
 心計	xnji
@@ -66976,7 +67073,6 @@ WiFi	wifi
 欣榮	xnrs
 新銳	xnrv
 心思	xnsi
-尋思	xnsi
 心酸	xnsr
 辛酸	xnsr
 心算	xnsr
@@ -67153,6 +67249,7 @@ WiFi	wifi
 薰染	xprj
 纁	xps
 遜色	xpse
+尋思	xpsi
 紃	xpsi
 迅速	xpsu
 壎	xpt
@@ -67514,6 +67611,7 @@ WiFi	wifi
 信任投票	xrtp
 宣統	xrts
 心如鐵石	xrtu
+玄鐵	xrtx
 懸停	xrty
 選手	xrub
 懸賞	xruh
@@ -67851,6 +67949,7 @@ WiFi	wifi
 學術	xtuu
 血水	xtuv
 岤	xtux
+学渣	xtva
 學者	xtve
 血證	xtvg
 學長	xtvh
@@ -67900,6 +67999,7 @@ WiFi	wifi
 雪災	xtzl
 小兔崽子	xtzz
 需	xu
+小時	xu
 刑事案件	xuaj
 心神不安	xuba
 序跋	xuba
@@ -69836,7 +69936,7 @@ WiFi	wifi
 以點帶面	yddm
 有多大關係	yddx
 有多大必要	yddy
-有點二	yde
+一點兒	yde
 一帶而過	ydeg
 易地而處	ydei
 遠道而來	ydel
@@ -71931,6 +72031,7 @@ WiFi	wifi
 藥皂	ykzk
 瑤族	ykzu
 咬嘴	ykzv
+邀	ykzw
 以來	yl
 一覽表	ylb
 意料不到	ylbd
@@ -73438,7 +73539,6 @@ WiFi	wifi
 約束	ytuu
 礿	ytuu
 籥	ytv
-曱甴	ytva
 勇挑重擔	ytvd
 揚湯止沸	ytvf
 樂章	ytvh
@@ -74213,6 +74313,7 @@ WiFi	wifi
 一無所知	ywsv
 一問三不知	ywsv
 一無所有	ywsy
+有問題	ywt
 以爲是	ywu
 野外生存	ywuc
 一無是處	ywui
@@ -74300,6 +74401,7 @@ WiFi	wifi
 嚴刑拷打	yxkd
 一向可好	yxkh
 有隙可乘	yxki
+一系列	yxl
 一系列的	yxld
 用心良苦	yxlk
 月下老人	yxlr
@@ -74611,6 +74713,7 @@ WiFi	wifi
 煙雨濛濛	yymm
 英模	yymo
 熒幕	yymu
+語言模型	yymx
 櫻	yymy
 英明	yymy
 楹	yymy
@@ -74665,7 +74768,7 @@ WiFi	wifi
 罌粟	yysu
 纓	yysy
 悠悠歲月	yysy
-一言堂	yyt
+有一天	yyt
 迎頭	yytb
 硬糖	yyth
 硬體	yyti
@@ -74930,6 +75033,7 @@ WiFi	wifi
 雜物	zawu
 雜務	zawu
 雜項	zaxd
+砸下	zaxw
 咋樣	zayh
 雜役	zayi
 雜音	zayn
@@ -75116,7 +75220,8 @@ WiFi	wifi
 坐等其成	zdqi
 坐地起價	zdqj
 自得其樂	zdql
-死對頭	zdt
+坐地鐵	zdt
+早稻田	zdtm
 自動調頻	zdtp
 這倒是	zdu
 總的說來	zdul
@@ -75474,6 +75579,7 @@ WiFi	wifi
 自負	zifu
 子承父業	zify
 資費	zifz
+自費	zifz
 胾	zig
 紫光	zigd
 資格	zige
@@ -77010,6 +77116,7 @@ WiFi	wifi
 自我解嘲	zwji
 自爲階級	zwjj
 自我介紹	zwju
+在我看來	zwkl
 罪無可赦	zwku
 子午卯酉	zwmy
 責無旁貸	zwpd
@@ -77057,7 +77164,9 @@ WiFi	wifi
 自行其是	zxqu
 再續前緣	zxqy
 自尋死路	zxsl
+子系統	zxt
 暫行條例	zxtl
+子系統	zxts
 早些時候	zxuh
 自選商場	zxui
 作息制度	zxvd
@@ -81940,6 +82049,8 @@ WiFi	wifi
 強不強	qbqd
 瞧不起	qbqi
 去不去	qbqu
+豈不是	qbs
+卻不是	qbs
 情報所	qbso
 七八歲	qbsv
 丘比特	qbte
@@ -83011,6 +83122,7 @@ WiFi	wifi
 十八歲	ubsv
 雙胞胎	ubtl
 傻白甜	ubtm
+傻白甜	ubtq
 說不通	ubts
 傻不傻	ubua
 手把手	ubub
@@ -85688,7 +85800,6 @@ WiFi	wifi
 鍩	ocno
 鐒	oclr
 
-
 # 開始飛鍵 xq -> xo
 罷休	baxo
 必修	bixo
@@ -85700,8 +85811,10 @@ WiFi	wifi
 病休	byxo
 刺繡	cixo
 大修	daxo
+單休	djxo
 倒休	dkxo
 短袖	drxo
+二不休	ebxo
 防鏽	fhxo
 返修	fjxo
 腐朽	fuxo
@@ -85732,6 +85845,7 @@ WiFi	wifi
 離休	lixo
 老朽	lkxo
 輪休	lpxo
+離退休	ltxo
 領袖	lyxo
 苗繡	mcxo
 蒙羞	mgxo
@@ -85752,6 +85866,7 @@ WiFi	wifi
 蘇繡	suxo
 調休	tcxo
 套袖	tkxo
+脫口秀	tkxo
 銅鏽	tsxo
 退休	tvxo
 鐵鏽	txxo
@@ -85908,9 +86023,6 @@ WiFi	wifi
 糟朽	zkxo
 作秀	zoxo
 做秀	zoxo
-二不休	ebxo
-離退休	ltxo
-脫口秀	tkxo
 # 结束飛鍵
 
 # 開始飛鍵 qx -> qo
@@ -85946,9 +86058,6 @@ WiFi	wifi
 迫切	poqo
 妻妾	qiqo
 親切	qnqo
-權且	qrqo
-確切	qtqo
-恰切	qwqo
 且	qo
 疌	qoa
 竊案	qoan
@@ -86005,8 +86114,8 @@ WiFi	wifi
 切片	qopm
 猰	qoq
 朅	qoqh
-竊取	qoqu
 切切	qoqo
+竊取	qoqu
 怯弱	qoro
 切入	qoru
 切絲	qosi
@@ -86042,6 +86151,9 @@ WiFi	wifi
 跙	qozq
 踥	qozq
 竊賊	qozz
+權且	qrqo
+確切	qtqo
+恰切	qwqo
 熱切	reqo
 偷竊	tbqo
 提挈	tiqo
@@ -86057,11 +86169,11 @@ WiFi	wifi
 心切	xnqo
 羞怯	xqqo
 行竊	xyqo
+一刀切	ydqo
 一切	yiqo
 殷切	ynqo
 餘切	yuqo
 暫且	zjqo
-一刀切	ydqo
 # 結束飛鍵
 
 
