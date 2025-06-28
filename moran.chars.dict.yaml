@@ -20614,8 +20614,8 @@ use_preset_vocabulary: false
 聓	xu;eg	0
 联	lm;eg	514908
 聕	hk;eg	0
-聖	ug;ew	0
 聖	ug;wk	0
+聖	ug;ew	0
 聗	lx;ej	0
 聘	pn;ek	42542
 聘	pn;ep	42542
@@ -34099,19 +34099,16 @@ use_preset_vocabulary: false
 丆	pp;ap	0
 丌	pp;qi	0
 丨	pp;au	0
-丨	pp;uu	0
 丩	pp;jc	0
 丬	pp;jd	0
 丬	pp;pj	0
 丶	pp;dm	0
 丷	pp;ba	0
-丷	pp;dm	0
 丿	pp;px	0
 乀	pp;yi	0
 乁	pp;yi	0
 ⺄	pp;yi	0
 乂	pp;yi	0
-乊	pp;ho	0
 乊	pp;px	0
 乚	pp;gb	0
 乛	pp;av	0
@@ -34145,12 +34142,10 @@ use_preset_vocabulary: false
 𫜹	pp;xt	0
 彑	pp;ji	0
 彡	pp;px	0
-彳	pp;rf	0
 彳	pp;xy	0
 忄	pp;xn	0
 手	pp;ub	0
 扌	pp;fu	0
-扌	pp;ti	0
 攵	pp;wf	0
 日	pp;or	0
 日	pp;ri	0
@@ -34161,7 +34156,6 @@ use_preset_vocabulary: false
 ⺼	pp;or	0
 水	pp;uv	0
 氵	pp;dm	0
-氺	pp;dm	0
 氺	pp;uv	0
 灬	pp;ho	0
 爫	pp;vw	0
@@ -48834,7 +48828,6 @@ use_preset_vocabulary: false
 𦫮	mn;sy	0	# auto
 𦫯	xp;sx	0	# auto
 𦫰	mg;sm	0	# auto
-𦫳	gy;gu	0	# auto
 𦫶	jc;cj	0	# auto
 𦫻	gl;cr	0	# auto
 𦬁	cl;cc	0	# auto
@@ -62126,8 +62119,10 @@ use_preset_vocabulary: false
 𤨗	lo;yy	0	# auto
 𨆘	ji;zq	0	# auto
 𤁒	ny;dy	0	# auto
-𣬛	sj;ge	0	# auto
-𣬛	uj;ge	0	# auto
+𣬛	sj;ge	0
+𣬛	uj;ge	0
+𣬛	sj;pg	0
+𣬛	uj;pg	0
 𪿿	kh;ug	0	# auto
 𤬙	hu;gg	0	# auto
 𠇘	iu;rd	0	# auto
@@ -94880,10 +94875,10 @@ use_preset_vocabulary: false
 𨰳	xn;ja	0	# auto
 𨰹	jm;jj	0	# auto
 𨱆	wu;jw	0	# auto
-𨱗	ih;ka	0	# auto
-𨱗	ih;ra	0	# auto
-𨱗	vh;ka	0	# auto
-𨱗	vh;ra	0	# auto
+𨱗	ih;ad	0	# auto
+𨱗	ih;id	0	# auto
+𨱗	vh;ad	0	# auto
+𨱗	vh;id	0	# auto
 𨱘	ih;ba	0	# auto
 𨱘	ih;ib	0	# auto
 𨱘	vh;ba	0	# auto
@@ -122071,6 +122066,13 @@ use_preset_vocabulary: false
 𖿳	er;je	0
 𮍌	if;aa	0
 𮍌	if;kk	0
+𠨰	nv;ig	0
+𥥺	jc;xk	0
+𦯆	mk;ck	0
+𧶻	mk;bk	0
+𨌡	lq;ik	0
+𨞵	mk;eb	0
+𩜕	bk;uk	0
 
 # CJK Ext I
 𤚴	fj;nm	0
