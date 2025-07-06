@@ -17,6 +17,7 @@
 㐁 aa
 㐁 ak
 㐂 qq
+㐃 sa
 㐄 aa
 㐄 fg
 㐅 pd
@@ -31861,7 +31862,6 @@
 鷨 nh
 鷩 nb
 鷩 nw
-鷪 mn
 鷪 nb
 鷪 on
 鷫 ns
@@ -37328,7 +37328,7 @@
 𡄜 kp
 𡄜 tp
 𡄝 cg
-𡄝 kg
+𡄝 ck
 𡄟 kx
 𡄠 me
 𡄡 kv
@@ -40552,7 +40552,8 @@
 𡱒 ug
 𡱓 cj
 𡱔 uo
-𡱕 ua
+𡱕 uq
+𡱕 ug
 𡱖 uv
 𡱗 us
 𡱘 ug
@@ -79023,6 +79024,7 @@
 𪨊 uc
 𪨋 ut
 𪨌 uq
+𪨌 ug
 𪨍 uu
 𪨏 ub
 𪨕 wi
@@ -82517,8 +82519,8 @@
 𫬋 kg
 𫬏 kl
 𫬐 ks
+𫬔 uk
 𫬔 kc
-𫬔 vk
 𫬘 kb
 𫬙 yg
 𫬟 kd
@@ -86838,8 +86840,7 @@
 𭄾 lc
 𭄿 cl
 𭄿 lv
-𭅃 la
-𭅃 wl
+𭅃 lv
 𭅄 gy
 𭅅 gy
 𭅇 gv
@@ -90990,7 +90991,7 @@
 𮥯 ek
 𮥰 eq
 𮥲 ex
-𮥴 ad
+𮥴 al
 𮥵 lu
 𮥵 vl
 𮥶 ra
@@ -90998,7 +90999,7 @@
 𮥷 wv
 𮥸 rn
 𮥸 vn
-𮥹 wa
+𮥹 wv
 𮥺 vi
 𮥼 vj
 𮥽 vy
