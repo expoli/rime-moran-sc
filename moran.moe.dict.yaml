@@ -173,7 +173,6 @@ use_preset_vocabulary: false
 一梦千宵	yi;aa mg;mx qm;pa xc;bx
 一梦千寻	yi;aa mg;mx qm;pa xp;cx
 一梦千年	yi;aa mg;mx qm;pa nm;ra
-一梦千朝	yi;aa mg;mx qm;pa ik;ou
 一梦江湖	yi;aa mg;mx jd;dg hu;dh
 一梦繁唐	yi;aa mg;mx fj;sm th;gk
 一梦贪欢	yi;aa mg;mx tj;bj hr;qy
@@ -820,7 +819,6 @@ use_preset_vocabulary: false
 七圣召唤	qi;ag ug;ty vk;kd hr;kh
 七与十字架	qi;ag yu;aa ui;aa zi;bz jw;mj
 七色世界	qi;ag se;db ui;ca jx;tj
-七色之朝	qi;ag se;db vi;dd ik;ou
 七色之种	qi;ag se;db vi;dd vs;hv
 七色之路	qi;ag se;db vi;dd lu;zg
 七色交响曲	qi;ag se;db jc;li xd;kx qu;aa
@@ -1132,6 +1130,7 @@ use_preset_vocabulary: false
 三月雨	sj;aa yt;oy yu;ad
 三月静香	sj;aa yt;oy jy;qv xd;ho
 三朝	sj;aa ik;ou
+三朝	sj;aa vk;ou
 三木一马	sj;aa mu;ad yi;aa ma;aa
 三木晶	sj;aa mu;ad jy;oo
 三木生贽	sj;aa mu;ad ug;na vi;bv
@@ -1458,7 +1457,7 @@ use_preset_vocabulary: false
 三鸟夭夭	sj;aa nc;na yk;pd yk;pd
 三鹰亚砂	sj;aa yy;gn ya;ay ua;uu
 三鹰仁	sj;aa yy;gn rf;re
-三鹰朝	sj;aa yy;gn ik;ou
+三鹰朝	sj;aa yy;gn vk;ou
 三鹰美咲	sj;aa yy;gn mz;dy xc;kg
 三黑色下指三角形	sj;aa hz;ad se;db xw;ab vi;fv sj;aa jc;dy xy;pk
 三点	sj;aa dm;hv
@@ -1500,7 +1499,7 @@ use_preset_vocabulary: false
 上原美佳	uh;aa yr;ix mz;dy jw;rg
 上原葵	uh;aa yr;ix kv;cg
 上原近次	uh;aa yr;ix jn;zj ci;dq
-上原都	uh;aa yr;ix db;ev
+上原都	uh;aa yr;ix du;ev
 上古之环	uh;aa gu;uk vi;dd hr;wb
 上古十大神器	uh;aa gu;uk ui;aa da;ad uf;uu qi;kk
 上古十神器	uh;aa gu;uk ui;aa uf;uu qi;kk
@@ -2568,7 +2567,7 @@ use_preset_vocabulary: false
 丘里奥斯	qq;pa li;aa ao;dm si;jq
 丘陵之巅区域	qq;pa ly;el vi;dd dm;ud qu;ki yu;th
 丘鲁克	qq;pa lu;yo ke;eg
-丘鲁克奥古斯都菲列特利加封安哈尔特泽鲁普斯特	qq;pa lu;yo ke;eg ao;dm gu;uk si;jq db;ev fz;cf lx;dd te;ns li;hd jw;lk fg;cg an;bn ha;kh er;dx te;ns ze;df lu;yo pu;ob si;jq te;ns
+丘鲁克奥古斯都菲列特利加封安哈尔特泽鲁普斯特	qq;pa lu;yo ke;eg ao;dm gu;uk si;jq du;ev fz;cf lx;dd te;ns li;hd jw;lk fg;cg an;bn ha;kh er;dx te;ns ze;df lu;yo pu;ob si;jq te;ns
 丘丽娜	qq;pa li;ad na;nn
 丙型	by;an xy;tx
 丙娘	by;an nd;nl
@@ -3480,7 +3479,7 @@ use_preset_vocabulary: false
 九条圣来	jq;py tc;wm ug;ty ll;am
 九条裟罗	jq;py tc;wm ua;yu lo;sx
 九条贵利矢	jq;py tc;wm gv;ba li;hd ui;pd
-九条都	jq;py tc;wm db;ev
+九条都	jq;py tc;wm du;ev
 九条镰治	jq;py tc;wm lm;jl vi;dt
 九条静流	jq;py tc;wm jy;qv lq;di
 九歌国殇	jq;py ge;qg go;ky uh;dy
@@ -5182,8 +5181,8 @@ use_preset_vocabulary: false
 仙术	xm;ru uu;md
 仙逆	xm;ru ni;zn
 仙道彰	xm;ru dk;zu vh;pv
-仙都木优麻	xm;ru db;ev mu;ad yb;ry ma;gl
-仙都木阿夜	xm;ru db;ev mu;ad aa;ek ye;wd
+仙都木优麻	xm;ru du;ev mu;ad yb;ry ma;gl
+仙都木阿夜	xm;ru du;ev mu;ad aa;ek ye;wd
 仙灵女巫	xm;ru ly;hx nv;aa wu;gc
 仙音	xm;ru yn;lo
 仙肴圣餐	xm;ru yk;iy ug;ty cj;uy
@@ -5275,6 +5274,7 @@ use_preset_vocabulary: false
 以色列国防军	yi;rd se;db lx;dd go;ky fh;ef jp;bi
 以花束代替离别	yi;rd hw;ch uu;ad dl;ry ti;of li;ws bx;dl
 以藏	yi;rd ch;cg
+以藏	yi;rd zh;cg
 以身戮恶	yi;rd uf;pp lu;gl ee;xy
 以逸待劳	yi;rd yi;zt dl;xs lk;lb
 以那种方式降世	yi;rd na;el vs;hv fh;dg ui;gy jd;ef ui;ca
@@ -5673,7 +5673,7 @@ use_preset_vocabulary: false
 伊甸之星	yi;ry dm;gt vi;dd xy;ou
 伊甸之东户冢	yi;ry dm;gt vi;dd ds;ad hu;dp vs;bd
 伊甸之路	yi;ry dm;gt vi;dd lu;zg
-伊甸之都	yi;ry dm;gt vi;dd db;ev
+伊甸之都	yi;ry dm;gt vi;dd du;ev
 伊甸园	yi;ry dm;gt yr;ky
 伊甸园创造工具	yi;ry dm;gt yr;ky id;dc zk;zg gs;aa ju;ba
 伊甸园工具箱	yi;ry dm;gt yr;ky gs;aa ju;ba xd;vx
@@ -5920,7 +5920,7 @@ use_preset_vocabulary: false
 伊邪那美讨伐战纪	yi;ry xx;ey na;el mz;dy tk;yc fa;rg vj;gv ji;sj
 伊邪那美讨伐战记	yi;ry xx;ey na;el mz;dy tk;yc fa;rg vj;gv ji;yj
 伊部小百合	yi;ry bu;ek xc;ad bl;ab he;rk
-伊都娜	yi;ry db;ev na;nn
+伊都娜	yi;ry du;ev na;nn
 伊里斯	yi;ry li;aa si;jq
 伊野奏	yi;ry ye;ly zb;ft
 伊闪闪	yi;ry uj;mr uj;mr
@@ -8410,7 +8410,7 @@ use_preset_vocabulary: false
 传说之心	ir;rv uo;yd vi;dd xn;dd
 传说之树下的告白	ir;rv uo;yd vi;dd uu;md xw;ab de;bu gk;kn bl;pa
 传说之白龙	ir;rv uo;yd vi;dd bl;pa ls;ad
-传说之都	ir;rv uo;yd vi;dd db;ev
+传说之都	ir;rv uo;yd vi;dd du;ev
 传说之黑带	ir;rv uo;yd vi;dd hz;ad dl;jb
 传说之黑魔术师	ir;rv uo;yd vi;dd hz;ad mo;gm uu;md ui;ab
 传说之龙卡组	ir;rv uo;yd vi;dd ls;ad ka;bx zu;sq
@@ -8588,7 +8588,7 @@ use_preset_vocabulary: false
 伪猫之理	wz;rw mk;qm vi;dd li;wl
 伪军	wz;rw jp;bi
 伪郎	wz;rw lh;el
-伪都	wz;rw db;ev
+伪都	wz;rw du;ev
 伪陷阱	wz;rw xm;ej jy;ej
 伪音物语	wz;rw yn;lo wu;nw yu;yw
 伪骸神	wz;rw hl;gh uf;uu
@@ -9332,7 +9332,7 @@ use_preset_vocabulary: false
 克蕾儿露裘	ke;eg lz;cl er;pg lu;yl qq;yq
 克蕾娅	ke;eg lz;cl ya;ny
 克蕾尔	ke;eg lz;cl er;dx
-克蕾尔凡布贝尔纳鲁都斯	ke;eg lz;cl er;dx fj;dj bu;ju bz;ad er;dx na;sn lu;yo db;ev si;jq
+克蕾尔凡布贝尔纳鲁都斯	ke;eg lz;cl er;dx fj;dj bu;ju bz;ad er;dx na;sn lu;yo du;ev si;jq
 克蕾尔露裘	ke;eg lz;cl er;dx lu;yl qq;yq
 克蕾琪塔	ke;eg lz;cl qi;wq ta;td
 克蕾西奥莉	ke;eg lz;cl xi;aa ao;dm li;cl
@@ -9446,7 +9446,7 @@ use_preset_vocabulary: false
 儿玉兼嗣	er;pg yu;ad jm;qd si;ks
 儿玉卓也	er;pg yu;ad vo;bu ye;gg
 儿玉明日美	er;pg yu;ad my;oo ri;aa mz;dy
-儿玉都	er;pg yu;ad db;ev
+儿玉都	er;pg yu;ad du;ev
 儿玉响	er;pg yu;ad xd;kx
 儿童	er;pg ts;ll
 儿童成长乐园	er;pg ts;ll ig;gg vh;pd le;pd yr;ky
@@ -11121,7 +11121,7 @@ use_preset_vocabulary: false
 凡高	fj;dj gk;wk
 凪原凉菜	vi;jv yr;ix ld;dj cl;cc
 凪咲	vi;jv xc;kg
-凪都	vi;jv db;ev
+凪都	vi;jv du;ev
 凪野智史	vi;jv ye;ly vi;ov ui;ki
 凰姬	hd;jh ji;ni
 凰檗	hd;jh bo;mb
@@ -12095,9 +12095,9 @@ use_preset_vocabulary: false
 副话术士	fu;df hw;yu uu;md ui;aa
 副语术士克拉拉与洛希卡	fu;df yu;yw uu;md ui;aa ke;eg la;fl la;fl yu;aa lo;dg xi;ju ka;bx
 副部长	fu;df bu;ek vh;pd
-副都	fu;df db;ev
-副都的顾问布尔瓦利	fu;df db;ev de;bu gu;ye wf;km bu;ju er;dx wa;ad li;hd
-副都的顾问布鲁瓦莉	fu;df db;ev de;bu gu;ye wf;km bu;ju lu;yo wa;ad li;cl
+副都	fu;df du;ev
+副都的顾问布尔瓦利	fu;df du;ev de;bu gu;ye wf;km bu;ju er;dx wa;ad li;hd
+副都的顾问布鲁瓦莉	fu;df du;ev de;bu gu;ye wf;km bu;ju lu;yo wa;ad li;cl
 副露	fu;df lu;yl
 割爪	ge;dh vk;pd
 割目	ge;dh mu;aa
@@ -12974,12 +12974,12 @@ use_preset_vocabulary: false
 劳伦浮士德	lk;lb lp;rl fu;df ui;aa de;xx
 劳力士伽德拉斯	lk;lb li;gp ui;aa ga;rj de;xx la;fl si;jq
 劳动最光荣	lk;lb ds;ly zv;oq gd;ea rs;cm
-劳埃德加满都	lk;lb ai;tu de;xx jw;lk mj;dl db;ev
+劳埃德加满都	lk;lb ai;tu de;xx jw;lk mj;dl du;ev
 劳埃德福杰	lk;lb ai;tu de;xx fu;uf jx;hm
 劳姆	lk;lb mu;nm
 劳拉	lk;lb la;fl
 劳拉克劳馥	lk;lb la;fl ke;eg lk;lb fu;hf
-劳拉史都华	lk;lb la;fl ui;ki db;ev hw;uh
+劳拉史都华	lk;lb la;fl ui;ki du;ev hw;uh
 劳拉弗莉克希尔	lk;lb la;fl fu;aa li;cl ke;eg xi;ju er;dx
 劳拉范德布姆	lk;lb la;fl fj;ce de;xx bu;ju mu;nm
 劳拉维多利亚诺	lk;lb la;fl wz;sv do;xx li;hd ya;ay no;yr
@@ -13234,7 +13234,7 @@ use_preset_vocabulary: false
 北条文乃	bz;ap tc;wm wf;wi nl;pg
 北条早云	bz;ap tc;wm zk;ou yp;es
 北条氏政	bz;ap tc;wm ui;pg vg;wv
-北条沙都子	bz;ap tc;wm ua;du db;ev zi;aa
+北条沙都子	bz;ap tc;wm ua;du du;ev zi;aa
 北条璃璃	bz;ap tc;wm li;wl li;wl
 北条索菲	bz;ap tc;wm so;sb fz;cf
 北条绫音	bz;ap tc;wm ly;sl yn;lo
@@ -13308,8 +13308,8 @@ use_preset_vocabulary: false
 北部小镇	bz;ap bu;ek xc;ad vf;jv
 北部海滩	bz;ap bu;ek hl;dm tj;dn
 北部玄驹	bz;ap bu;ek xr;wy ju;mj
-北都南	bz;ap db;ev nj;ua
-北都美月	bz;ap db;ev mz;dy yt;oy
+北都南	bz;ap du;ev nj;ua
+北都美月	bz;ap du;ev mz;dy yt;oy
 北野九吟	bz;ap ye;ly jq;py yn;kj
 北野爱	bz;ap ye;ly ai;vy
 北野更	bz;ap ye;ly gg;ad
@@ -13344,7 +13344,7 @@ use_preset_vocabulary: false
 区区人类太狂妄了	qu;ki qu;ki rf;pd lz;md tl;dd kd;qw wh;nw le;aa
 区域	qu;ki yu;th
 区块链游戏	qu;ki ky;td lm;jl yb;dz xi;yg
-区鸟多都	qu;ki nc;na do;xx db;ev
+区鸟多都	qu;ki nc;na do;xx du;ev
 十一	ui;aa yi;aa
 十一人聚集的理由	ui;aa yi;aa rf;pd ju;ed ji;mv de;bu li;wl yb;aa
 十一个人聚集的理由	ui;aa yi;aa ge;ra rf;pd ju;ed ji;mv de;bu li;wl yb;aa
@@ -13745,7 +13745,7 @@ use_preset_vocabulary: false
 千贺照子	qm;pa he;bj vk;hv zi;aa
 千载名	qm;pa zl;gi my;xk
 千载长生探秦陵	qm;pa zl;gi ih;pd ug;na tj;fm qn;hf ly;el
-千都	qm;pa db;ev
+千都	qm;pa du;ev
 千里	qm;pa li;aa
 千里丹心万里路	qm;pa li;aa dj;pd xn;dd wj;ag li;aa lu;zg
 千里教	qm;pa li;aa jc;wx
@@ -14109,7 +14109,7 @@ use_preset_vocabulary: false
 南语	nj;ua yu;yw
 南车篇	nj;ua ie;aa pm;vb
 南达科他	nj;ua da;zd ke;hd ta;ry
-南都夜夜	nj;ua db;ev ye;wd ye;wd
+南都夜夜	nj;ua du;ev ye;wd ye;wd
 南医娘	nj;ua yi;ku nd;nl
 南里一花	nj;ua li;aa yi;aa hw;ch
 南里佳音	nj;ua li;aa jw;rg yn;lo
@@ -15997,7 +15997,7 @@ use_preset_vocabulary: false
 史诗幻想战争	ui;ki ui;ys hr;yg xd;xx vj;gv vg;dy
 史诺比	ui;ki no;yr bi;bb
 史进	ui;ki jn;zj
-史都华德	ui;ki db;ev hw;uh de;xx
+史都华德	ui;ki du;ev hw;uh de;xx
 史魁克	ui;ki kv;gd ke;eg
 史黛拉	ui;ki dl;hd la;fl
 史黛拉星井	ui;ki dl;hd la;fl xy;ou jy;aa
@@ -16560,7 +16560,7 @@ use_preset_vocabulary: false
 名栗刨	my;xk li;mx pk;db
 名推理	my;xk tv;fv li;wl
 名木城弥生	my;xk mu;ad ig;ti mi;ge ug;na
-名木城都	my;xk mu;ad ig;ti db;ev
+名木城都	my;xk mu;ad ig;ti du;ev
 名机来夏	my;xk ji;mj ll;am xw;wz
 名波七爱	my;xk bo;dp qi;ag ai;vy
 名波凛凛花	my;xk bo;dp ln;db ln;db hw;ch
@@ -16587,7 +16587,7 @@ use_preset_vocabulary: false
 名词	my;xk ci;ys
 名词解释	my;xk ci;ys jx;jn ui;pf
 名护启介	my;xk hu;fh qi;hk jx;ra
-名都神无	my;xk db;ev uf;uu wu;ag
+名都神无	my;xk du;ev uf;uu wu;ag
 名乡千惠子	my;xk xd;ap qm;pa hv;xh zi;aa
 名云桂一郎	my;xk yp;es gv;mg yi;aa lh;el
 后羿	hb;pk yi;cy
@@ -17817,7 +17817,7 @@ use_preset_vocabulary: false
 哎呦喂	ai;ka yb;ky wz;kw
 哎咿多工作室	ai;ka yi;ky do;xx gs;aa zo;rv ui;bv
 哎小呜	ai;ka xc;ad wu;kw
-哏都	gf;kg db;ev
+哏都	gf;kg du;ev
 哐当哐当嘎吱嘎吱	kd;kk dh;xx kd;kk dh;xx ga;kg vi;kv ga;kg vi;kv
 哞菇	mb;km gu;cg
 哞菇娘	mb;km gu;cg nd;nl
@@ -18639,7 +18639,7 @@ use_preset_vocabulary: false
 喵萌奶茶屋	mc;km mg;cm nl;nn ia;cm wu;uv
 喵诺	mc;km no;yr
 喵赛克	mc;km sl;bb ke;eg
-喵都	mc;km db;ev
+喵都	mc;km du;ev
 喵酱	mc;km jd;yx
 喵酱油	mc;km jd;yx yb;dy
 喵隐	mc;km yn;ej
@@ -19556,7 +19556,7 @@ use_preset_vocabulary: false
 圆谷	yr;ky gu;bk
 圆谷一	yr;ky gu;bk yi;aa
 圆谷光彦	yr;ky gu;bk gd;ea yj;ip
-圆谷朝美	yr;ky gu;bk ik;ou mz;dy
+圆谷朝美	yr;ky gu;bk vk;ou mz;dy
 圆谷株式会社	yr;ky gu;bk vu;mv ui;gy hv;ry ue;ut
 圆谷真奈	yr;ky gu;bk vf;uj nl;du
 圆谷英二	yr;ky gu;bk yy;cy er;aa
@@ -20545,7 +20545,7 @@ use_preset_vocabulary: false
 城户丈	ig;ti hu;dp vh;ad
 城户武	ig;ti hu;dp wu;vy
 城户沙织	ig;ti hu;dp ua;du vi;sv
-城户灰都	ig;ti hu;dp hv;hu db;ev
+城户灰都	ig;ti hu;dp hv;hu du;ev
 城户真司	ig;ti hu;dp vf;uj si;gk
 城户研二	ig;ti hu;dp yj;uk er;aa
 城所圣明	ig;ti so;hj ug;ty my;oo
@@ -20726,7 +20726,7 @@ use_preset_vocabulary: false
 堀江真美	ku;tq jd;dg vf;uj mz;dy
 堀江瞬	ku;tq jd;dg up;ou
 堀江秀尚	ku;tq jd;dg xq;hn uh;xk
-堀江美都子	ku;tq jd;dg mz;dy db;ev zi;aa
+堀江美都子	ku;tq jd;dg mz;dy du;ev zi;aa
 堀江青	ku;tq jd;dg qy;of
 堀池圆	ku;tq ii;dy yr;ky
 堀河美弦	ku;tq he;dk mz;dy xm;gx
@@ -21739,7 +21739,7 @@ use_preset_vocabulary: false
 夏目心菜	xw;wz mu;aa xn;dd cl;cc
 夏目恋奈	xw;wz mu;aa lm;xy nl;du
 夏目新的结婚	xw;wz mu;aa xn;jq de;bu jx;sj hp;nh
-夏目朝子	xw;wz mu;aa ik;ou zi;aa
+夏目朝子	xw;wz mu;aa vk;ou zi;aa
 夏目柠檬	xw;wz mu;aa ny;mn mg;mm
 夏目残夏	xw;wz mu;aa cj;dj xw;wz
 夏目漱石	xw;wz mu;aa uu;dq ui;kp
@@ -23082,7 +23082,7 @@ use_preset_vocabulary: false
 大学社团里最可爱的学妹	da;ad xt;zb ue;ut tr;kc li;aa zv;oq ke;dk ai;vy de;bu xt;zb mz;nw
 大宅一子	da;ad vl;bq yi;aa zi;aa
 大宅学家	da;ad vl;bq xt;zb jw;bu
-大宅都光	da;ad vl;bq db;ev gd;ea
+大宅都光	da;ad vl;bq du;ev gd;ea
 大宇	da;ad yu;by
 大宇宙	da;ad yu;by vb;by
 大宇神秘惊奇	da;ad yu;by uf;uu mi;hb jy;xj qi;dk
@@ -23737,7 +23737,7 @@ use_preset_vocabulary: false
 大阴阳玉	da;ad yn;eo yh;eo yu;ad
 大陆信使	da;ad lu;ej xn;ry ui;rl
 大陆魔法协会	da;ad lu;ej mo;gm fa;dq xx;ub hv;ry
-大隅朝颜	da;ad yu;ey ik;ou yj;yy
+大隅朝颜	da;ad yu;ey vk;ou yj;yy
 大隈	da;ad wz;ew
 大隈二喜	da;ad wz;ew er;aa xi;uk
 大隈健太	da;ad wz;ew jm;rj tl;dd
@@ -24619,7 +24619,7 @@ use_preset_vocabulary: false
 天邪鬼黄	tm;ad xx;ey gv;pd hd;ad
 天邪龙王	tm;ad xx;ey ls;ad wh;aa
 天部秋成	tm;ad bu;ek qq;hh ig;gg
-天都彼方	tm;ad db;ev bi;xp fh;dg
+天都彼方	tm;ad du;ev bi;xp fh;dg
 天酒馨	tm;ad jq;dy xn;ux
 天里美奈	tm;ad li;aa mz;dy nl;du
 天野凛	tm;ad ye;ly ln;db
@@ -25492,10 +25492,10 @@ use_preset_vocabulary: false
 奥古斯塔芙蕾德利嘉艾戴尔阿德勒	ao;dm gu;uk si;jq ta;td fu;cf lz;cl de;xx li;hd jw;uj ai;ci dl;gg er;dx aa;ek de;xx le;lg
 奥古斯特冯帕塞瓦尔	ao;dm gu;uk si;jq te;ns fg;dm pa;jb sl;tb wa;ad er;dx
 奥古斯特鲁思文	ao;dm gu;uk si;jq te;ns lu;yo si;xt wf;wi
-奥古斯都	ao;dm gu;uk si;jq db;ev
-奥古斯都布莱克	ao;dm gu;uk si;jq db;ev bu;ju ll;cl ke;eg
-奥古斯都恺撒	ao;dm gu;uk si;jq db;ev kl;xj sa;fs
-奥古斯都米寇拉	ao;dm gu;uk si;jq db;ev mi;dd kb;bp la;fl
+奥古斯都	ao;dm gu;uk si;jq du;ev
+奥古斯都布莱克	ao;dm gu;uk si;jq du;ev bu;ju ll;cl ke;eg
+奥古斯都恺撒	ao;dm gu;uk si;jq du;ev kl;xj sa;fs
+奥古斯都米寇拉	ao;dm gu;uk si;jq du;ev mi;dd kb;bp la;fl
 奥吉尔	ao;dm ji;ku er;dx
 奥地利	ao;dm di;ty li;hd
 奥地利共和国	ao;dm di;ty li;hd gs;cb he;hk go;ky
@@ -26505,11 +26505,11 @@ use_preset_vocabulary: false
 妖花人	yk;ny hw;ch rf;pd
 妖莲花	yk;ny lm;cl hw;ch
 妖蛾子	yk;ny ee;iw zi;aa
-妖行神都	yk;ny xy;xd uf;uu db;ev
+妖行神都	yk;ny xy;xd uf;uu du;ev
 妖艳神乐	yk;ny yj;fs uf;uu le;pd
 妖猫之宿	yk;ny mk;qm vi;dd su;bb
 妖邪异怪	yk;ny xx;ey yi;cs gy;xu
-妖都	yk;ny db;ev
+妖都	yk;ny du;ev
 妖鸡	yk;ny ji;ny
 妖馆	yk;ny gr;ug
 妖魔	yk;ny mo;gm
@@ -27859,9 +27859,9 @@ use_preset_vocabulary: false
 宇贺岛柏琳	yu;by he;bj dk;nu bl;mb ln;wl
 宇贺岛由加莉	yu;by he;bj dk;nu yb;aa jw;lk li;cl
 宇贺神早纪	yu;by he;bj uf;uu zk;ou ji;sj
-宇都宫城	yu;by db;ev gs;bl ig;ti
-宇都宫心春	yu;by db;ev gs;bl xn;dd ip;of
-宇都宫陆	yu;by db;ev gs;bl lu;ej
+宇都宫城	yu;by du;ev gs;bl ig;ti
+宇都宫心春	yu;by du;ev gs;bl xn;dd ip;of
+宇都宫陆	yu;by du;ev gs;bl lu;ej
 宇野	yu;by ye;ly
 宇野千寻	yu;by ye;ly qm;pa xp;cx
 宇野小春	yu;by ye;ly xc;ad ip;of
@@ -28196,7 +28196,7 @@ use_preset_vocabulary: false
 安樱美炎	an;bn yy;my mz;dy yj;hh
 安比德玛拉	an;bn bi;bb de;xx ma;wm la;fl
 安比尔	an;bn bi;bb er;dx
-安永沙都子	an;bn ys;dd ua;du db;ev zi;aa
+安永沙都子	an;bn ys;dd ua;du du;ev zi;aa
 安永酱	an;bn ys;dd jd;yx
 安波里欧	an;bn bo;dp li;aa ou;qq
 安波里欧阿尔尼优	an;bn bo;dp li;aa ou;qq aa;ek er;dx ni;ub yb;ry
@@ -28216,7 +28216,7 @@ use_preset_vocabulary: false
 安洁莉卡阿塔纳西欧	an;bn jx;dj li;cl ka;bx aa;ek ta;td na;sn xi;aa ou;qq
 安洁莉娜	an;bn jx;dj li;cl na;nn
 安洁莉娜九岛希尔兹	an;bn jx;dj li;cl na;nn jq;py dk;nu xi;ju er;dx zi;by
-安洁莉娜库都希尔兹	an;bn jx;dj li;cl na;nn ku;gi db;ev xi;ju er;dx zi;by
+安洁莉娜库都希尔兹	an;bn jx;dj li;cl na;nn ku;gi du;ev xi;ju er;dx zi;by
 安洁莉娜菜夏史威尔	an;bn jx;dj li;cl na;nn cl;cc xw;wz ui;ki wz;gn er;dx
 安洁莉娅	an;bn jx;dj li;cl ya;ny
 安洁莉娅艾柏蓉	an;bn jx;dj li;cl ya;ny ai;ci bl;mb rs;cr
@@ -28302,12 +28302,12 @@ use_preset_vocabulary: false
 安藤真琴	an;bn tg;ct vf;uj qn;wj
 安藤真裕	an;bn tg;ct vf;uj yu;yg
 安藤良	an;bn tg;ct ld;dg
-安藤都子	an;bn tg;ct db;ev zi;aa
+安藤都子	an;bn tg;ct du;ev zi;aa
 安藤鹤纱	an;bn tg;ct he;nv ua;su
 安藤丽奈	an;bn tg;ct li;ad nl;du
 安藤麻吹	an;bn tg;ct ma;gl iv;kq
 安里	an;bn li;aa
-安里朝都	an;bn li;aa ik;ou db;ev
+安里朝都	an;bn li;aa vk;ou du;ev
 安里琉花	an;bn li;aa lq;wi hw;ch
 安西光义	an;bn xi;aa gd;ea yi;di
 安西常叶	an;bn xi;aa ih;jk ye;ku
@@ -28356,7 +28356,7 @@ use_preset_vocabulary: false
 安斋千代美	an;bn vl;we qm;pa dl;ry mz;dy
 安斋由香里	an;bn vl;we yb;aa xd;ho li;aa
 安斋纱彩	an;bn vl;we ua;su cl;pc
-安斋都	an;bn vl;we db;ev
+安斋都	an;bn vl;we du;ev
 安斋龙太	an;bn vl;we ls;ad tl;dd
 宋乙凤	ss;bm yi;aa fg;jy
 宋京浩	ss;bm jy;wx hk;dg
@@ -28437,7 +28437,7 @@ use_preset_vocabulary: false
 宗像草太	zs;bu xd;rx ck;cz tl;dd
 宗元千明	zs;bu yr;aw qm;pa my;oo
 宗圆千明	zs;bu yr;ky qm;pa my;oo
-宗圆寺朝晴	zs;bu yr;ky si;ct ik;ou qy;oq
+宗圆寺朝晴	zs;bu yr;ky si;ct vk;ou qy;oq
 宗圆寺雨夜	zs;bu yr;ky si;ct yu;ad ye;wd
 宗形巡	zs;bu xy;pk xp;zi
 宗教审判庭	zs;bu jc;wx uf;bu pj;db ty;gt
@@ -29348,7 +29348,7 @@ use_preset_vocabulary: false
 封祭的假面	fg;cg ji;uy de;bu jw;rj mm;aa
 封禁	fg;cg jn;ul
 封绝	fg;cg jt;ss
-封缄之都古拉塞斯塔	fg;cg jm;sx vi;dd db;ev gu;uk la;fl sl;tb si;jq ta;td
+封缄之都古拉塞斯塔	fg;cg jm;sx vi;dd du;ev gu;uk la;fl sl;tb si;jq ta;td
 封缄的格拉塞斯塔	fg;cg jm;sx de;bu ge;mg la;fl sl;tb si;jq ta;td
 封茗囧茵	fg;cg my;cm js;kk yn;cy
 封茗囧菌	fg;cg my;cm js;kk jp;ch
@@ -29632,7 +29632,7 @@ use_preset_vocabulary: false
 小中和哉	xc;ad vs;aa he;hk zl;kg
 小中大	xc;ad vs;aa da;ad
 小丹尼	xc;ad dj;pd ni;ub
-小乃立都	xc;ad nl;pg li;da db;ev
+小乃立都	xc;ad nl;pg li;da du;ev
 小久诺娃	xc;ad jq;pd no;yr wa;ng
 小之星海果	xc;ad vi;dd xy;ou hl;dm go;ad
 小之森夏音	xc;ad vi;dd sf;ml xw;wz yn;lo
@@ -30218,7 +30218,7 @@ use_preset_vocabulary: false
 小林薰事件	xc;ad ln;mm xp;cx ui;aa jm;rn
 小林裕介	xc;ad ln;mm yu;yg jx;ra
 小林亲弘	xc;ad ln;mm qn;lm hs;gs
-小林都	xc;ad ln;mm db;ev
+小林都	xc;ad ln;mm du;ev
 小林里美	xc;ad ln;mm li;aa mz;dy
 小林雄次	xc;ad ln;mm xs;vh ci;dq
 小林靖子	xc;ad ln;mm jy;lq zi;aa
@@ -30759,7 +30759,7 @@ use_preset_vocabulary: false
 小陆	xc;ad lu;ej
 小阳春	xc;ad yh;eo ip;of
 小队甲子园	xc;ad dv;er jw;aa zi;aa yr;ky
-小雀都都	xc;ad qt;vx db;ev db;ev
+小雀都都	xc;ad qt;vx du;ev du;ev
 小雀香奈	xc;ad qt;vx xd;ho nl;du
 小雄凯特	xc;ad xs;vh kl;jj te;ns
 小雅美	xc;ad ya;vy mz;dy
@@ -31910,7 +31910,7 @@ use_preset_vocabulary: false
 山田外朗	uj;aa tm;aa wl;xb lh;ol
 山田多惠	uj;aa tm;aa do;xx hv;xh
 山田太郎	uj;aa tm;aa tl;dd lh;el
-山田奈都美	uj;aa tm;aa nl;du db;ev mz;dy
+山田奈都美	uj;aa tm;aa nl;du du;ev mz;dy
 山田妖精	uj;aa tm;aa yk;ny jy;mq
 山田妙	uj;aa tm;aa mc;nu
 山田妙子	uj;aa tm;aa mc;nu zi;aa
@@ -32328,7 +32328,7 @@ use_preset_vocabulary: false
 嵌合超载龙	qm;uq he;rk ik;zv zl;gi ls;ad
 嵌合巨舰龙	qm;uq he;rk ju;kk jm;vj ls;ad
 嵌合体	qm;uq he;rk ti;rb
-岚千砂都	lj;uf qm;pa ua;uu db;ev
+岚千砂都	lj;uf qm;pa ua;uu du;ev
 岚少	lj;uf uk;xp
 岚山时夫	lj;uf uj;aa ui;oc fu;ad
 岚山步鸟	lj;uf uj;aa bu;vx nc;na
@@ -33317,8 +33317,8 @@ use_preset_vocabulary: false
 布袋莲	bu;ju dl;yd lm;cl
 布迷	bu;ju mi;zm
 布郎姆	bu;ju lh;el mu;nm
-布都	bu;ju db;ev
-布都御魂	bu;ju db;ev yu;xx hp;gy
+布都	bu;ju du;ev
+布都御魂	bu;ju du;ev yu;xx hp;gy
 布里丹驴娘效应	bu;ju li;aa dj;pd lv;mh nd;nl xc;wj yy;ga
 布里之誓	bu;ju li;aa vi;dd ui;yv
 布里吉特	bu;ju li;aa ji;ku te;ns
@@ -34503,7 +34503,7 @@ use_preset_vocabulary: false
 幻海梦蝶	hr;yg hl;dm mg;mx dx;im
 幻海奇情	hr;yg hl;dm qi;dk qy;xq
 幻海阿缈	hr;yg hl;dm aa;ek mc;sm
-幻煌之都	hr;yg hd;hh vi;dd db;ev
+幻煌之都	hr;yg hd;hh vi;dd du;ev
 幻煌龙的天涡	hr;yg hd;hh ls;ad de;bu tm;ad wo;dg
 幻煌龙的战涡	hr;yg hd;hh ls;ad de;bu vj;gv wo;dg
 幻煌龙的浸涡	hr;yg hd;hh ls;ad de;bu jn;dy wo;dg
@@ -34655,7 +34655,7 @@ use_preset_vocabulary: false
 幽游白书	yb;uy yb;dz bl;pa uu;ad
 幽邃之星	yb;uy sv;zu vi;dd xy;ou
 幽邃地窟	yb;uy sv;zu di;ty ku;xq
-幽都战	yb;uy db;ev vj;gv
+幽都战	yb;uy du;ev vj;gv
 幽门螺杆菌	yb;uy mf;dg lo;il gj;mg jp;ch
 幽闭恐惧症	yb;uy bi;mc ks;xg ju;xj vg;bv
 幽闭星光	yb;uy bi;mc xy;ou gd;ea
@@ -35029,9 +35029,9 @@ use_preset_vocabulary: false
 废话梗	fz;gf hw;yu gg;mg
 废话歌	fz;gf hw;yu ge;qg
 废道响	fz;gf dk;zu xd;kx
-废都	fz;gf db;ev
-废都物语	fz;gf db;ev wu;nw yu;yw
-废都重建	fz;gf db;ev is;pa jm;zy
+废都	fz;gf du;ev
+废都物语	fz;gf du;ev wu;nw yu;yw
+废都重建	fz;gf du;ev is;pa jm;zy
 废铜烂铁的意志	fz;gf ts;jt lj;hl tx;ju de;bu yi;xy vi;xu
 废铁人	fz;gf tx;ju rf;pd
 废铁像	fz;gf tx;ju xd;rx
@@ -35193,7 +35193,7 @@ use_preset_vocabulary: false
 式姬草子	ui;gy ji;ni ck;cz zi;aa
 式守	ui;gy ub;bc
 式守同学不只可爱而已	ui;gy ub;bc ts;kk xt;zb bu;ad vi;kb ke;dk ai;vy er;aa yi;vg
-式守都	ui;gy ub;bc db;ev
+式守都	ui;gy ub;bc du;ev
 式宫舞菜	ui;gy gs;bl wu;rf cl;cc
 式波明日香兰格雷	ui;gy bo;dp my;oo ri;aa xd;ho lj;bs ge;mg lz;yt
 式神操控	ui;gy uf;uu ck;fz ks;fk
@@ -35919,8 +35919,8 @@ use_preset_vocabulary: false
 彩蛋	cl;pc dj;ip
 彩豆	cl;pc db;aa
 彩贲帝	cl;pc bf;bh di;jb
-彩都神社	cl;pc db;ev uf;uu ue;ut
-彩都麒麟	cl;pc db;ev qi;lq ln;ll
+彩都神社	cl;pc du;ev uf;uu ue;ut
+彩都麒麟	cl;pc du;ev qi;lq ln;ll
 彩铅	cl;pc qm;jk
 彩云	cl;pc yp;es
 彩云国物语	cl;pc yp;es go;ky wu;nw yu;yw
@@ -36390,7 +36390,7 @@ use_preset_vocabulary: false
 从左到右从未失手	cs;rr zo;gu dk;dv yb;ku cs;rr wz;ex ui;pf ub;pa
 从很久以前就喜欢你了	cs;rr hf;xg jq;pd yi;rd qm;bd jq;yj xi;uk hr;qy ni;re le;aa
 从星遗物觉醒	cs;rr xy;ou yi;zg wu;nw jt;dj xy;yx
-从晴朗的朝色泛起之际开始	cs;rr qy;oq lh;ol de;bu ik;ou se;db fj;df qi;zj vi;dd ji;eu kl;ac ui;nt
+从晴朗的朝色泛起之际开始	cs;rr qy;oq lh;ol de;bu vk;ou se;db fj;df qi;zj vi;dd ji;eu kl;ac ui;nt
 从未改变的友情	cs;rr wz;ex gl;wj bm;wy de;bu yb;yu qy;xq
 从本能寺开始与信长统一天下	cs;rr bf;aa ng;sb si;ct kl;ac ui;nt yu;aa xn;ry ih;pd ts;si yi;aa tm;ad xw;ab
 从东边的天空绽放的世界	cs;rr ds;ad bm;zl de;bu tm;ad ks;xg vj;sd fh;wf de;bu ui;ca jx;tj
@@ -36558,7 +36558,7 @@ use_preset_vocabulary: false
 御汤利	yu;xx th;dy li;hd
 御泽萌惠	yu;xx ze;df mg;cm hv;xh
 御狐神双炽	yu;xx hu;qg uf;uu ud;yy ii;hv
-御琴羽寿沙都	yu;xx qn;wj yu;xx ub;cf ua;du db;ev
+御琴羽寿沙都	yu;xx qn;wj yu;xx ub;cf ua;du du;ev
 御用守护者	yu;xx ys;kf ub;bc hu;fh ve;lo
 御用捕食者	yu;xx ys;kf bu;ff ui;rl ve;lo
 御用王	yu;xx ys;kf wh;aa
@@ -36576,6 +36576,7 @@ use_preset_vocabulary: false
 御苑生梅	yu;xx yr;ce ug;na mz;mm
 御苑生芽衣	yu;xx yr;ce ug;na ya;cy yi;dd
 御藏	yu;xx ch;cg
+御藏	yu;xx zh;cg
 御萝	yu;xx lo;cl
 御行达摩	yu;xx xy;xd da;zd mo;mu
 御卫门	yu;xx wz;ea mf;dg
@@ -36583,7 +36584,7 @@ use_preset_vocabulary: false
 御舆千代	yu;xx yu;ba qm;pa dl;ry
 御舆长正	yu;xx yu;ba vh;pd vg;av
 御遣者	yu;xx qm;zg ve;lo
-御都合主义	yu;xx db;ev he;rk vu;dw yi;di
+御都合主义	yu;xx du;ev he;rk vu;dw yi;di
 御酒本时雨	yu;xx jq;dy bf;aa ui;oc yu;ad
 御镜光辉	yu;xx jy;jj gd;ea hv;gj
 御镜灵	yu;xx jy;jj ly;hx
@@ -37388,7 +37389,7 @@ use_preset_vocabulary: false
 志贺春树	vi;xu he;bj ip;of uu;md
 志贺直哉	vi;xu he;bj vi;uq zl;kg
 志贺麻登佳	vi;xu he;bj ma;gl dg;dd jw;rg
-志那都	vi;xu na;el db;ev
+志那都	vi;xu na;el du;ev
 志郎	vi;xu lh;el
 志野亚贵	vi;xu ye;ly ya;ay gv;ba
 志雷马	vi;xu lz;yt ma;aa
@@ -37401,7 +37402,7 @@ use_preset_vocabulary: false
 忘却	wh;xw qt;eq
 忘却中	wh;xw qt;eq vs;aa
 忘却之森	wh;xw qt;eq vi;dd sf;ml
-忘却之都	wh;xw qt;eq vi;dd db;ev
+忘却之都	wh;xw qt;eq vi;dd du;ev
 忘却了有无才能的程度	wh;xw qt;eq le;aa yb;ou wu;ag cl;ap ng;sb de;bu ig;hi du;gy
 忘却侦探	wh;xw qt;eq vf;rv tj;fm
 忘却心中	wh;xw qt;eq xn;dd vs;aa
@@ -37922,7 +37923,7 @@ use_preset_vocabulary: false
 恩匹希	en;xy pi;ke xi;ju
 恩基	en;xy ji;tq
 恩多尔	en;xy do;xx er;dx
-恩奇都	en;xy qi;dk db;ev
+恩奇都	en;xy qi;dk du;ev
 恩尼格玛	en;xy ni;ub ge;mg ma;wm
 恩希亚希瓦艾什	en;xy xi;ju ya;ay xi;ju wa;ad ai;ci ui;ru
 恩希欧迪斯希瓦艾什	en;xy xi;ju ou;qq di;zy si;jq xi;ju wa;ad ai;ci ui;ru
@@ -44250,7 +44251,7 @@ use_preset_vocabulary: false
 于锋	yu;aa fg;jf
 于铁涵	yu;aa tx;ju hj;dh
 于阳光照耀之外	yu;aa yh;eo gd;ea vk;hv yk;gd vi;dd wl;xb
-于离别之朝束起约定之花	yu;aa li;ws bx;dl vi;dd ik;ou uu;ad qi;zj yt;su dy;bp vi;dd hw;ch
+于离别之朝束起约定之花	yu;aa li;ws bx;dl vi;dd vk;ou uu;ad qi;zj yt;su dy;bp vi;dd hw;ch
 于离别早晨饰上约定之花	yu;aa li;ws bx;dl zk;ou if;oi ui;uj uh;aa yt;su dy;bp vi;dd hw;ch
 于雪中漫舞的姬君	yu;aa xt;yx vs;aa mj;dm wu;rf de;bu ji;ni jp;ky
 于青岚之后	yu;aa qy;of lj;uf vi;dd hb;pk
@@ -44716,7 +44717,7 @@ use_preset_vocabulary: false
 日轮的女神天照	ri;aa lp;il de;bu nv;aa uf;uu tm;ad vk;hv
 日进	ri;aa jn;zj
 日游神	ri;aa yb;dz uf;uu
-日都岛	ri;aa db;ev dk;nu
+日都岛	ri;aa du;ev dk;nu
 日野下花帆	ri;aa ye;ly xw;ab hw;ch fj;jf
 日野佑美	ri;aa ye;ly yb;ry mz;dy
 日野原千代子	ri;aa ye;ly yr;ix qm;pa dl;ry zi;aa
@@ -45716,7 +45717,7 @@ use_preset_vocabulary: false
 星遗物的继承者	xy;ou yi;zg wu;nw de;bu ji;sa ig;ad ve;lo
 星遗物的醒存	xy;ou yi;zg wu;nw de;bu xy;yx cp;uz
 星邪的神食	xy;ou xx;ey de;bu uf;uu ui;rl
-星都琪艾米	xy;ou db;ev qi;wq ai;ci mi;dd
+星都琪艾米	xy;ou du;ev qi;wq ai;ci mi;dd
 星野	xy;ou ye;ly
 星野一生	xy;ou ye;ly yi;aa ug;na
 星野佑典	xy;ou ye;ly yb;ry dm;ba
@@ -45906,7 +45907,7 @@ use_preset_vocabulary: false
 春小秋	ip;of xc;ad qq;hh
 春小花	ip;of xc;ad hw;ch
 春山雪落谣	ip;of uj;aa xt;yx lo;cl yk;yf
-春岛花朝	ip;of dk;nu hw;ch ik;ou
+春岛花朝	ip;of dk;nu hw;ch vk;ou
 春岚	ip;of lj;uf
 春川勇人	ip;of ir;pa ys;ly rf;pd
 春川友纪	ip;of ir;pa yb;yu ji;sj
@@ -47622,7 +47623,7 @@ use_preset_vocabulary: false
 月之轮回	yt;oy vi;dd lp;il hv;kk
 月之轰炸机	yt;oy vi;dd hs;iu va;hv ji;mj
 月之道	yt;oy vi;dd dk;zu
-月之都	yt;oy vi;dd db;ev
+月之都	yt;oy vi;dd du;ev
 月之炼金术师	yt;oy vi;dd lm;hd jn;ra uu;md ui;ab
 月之骑士	yt;oy vi;dd qi;mq ui;aa
 月之骑士露娜	yt;oy vi;dd qi;mq ui;aa lu;yl na;nn
@@ -47934,7 +47935,7 @@ use_preset_vocabulary: false
 月读调	yt;oy du;ym dc;yv
 月读锁锁美	yt;oy du;ym so;jb so;jb mz;dy
 月赋情长	yt;oy fu;bw qy;xq ih;pd
-月都	yt;oy db;ev
+月都	yt;oy du;ev
 月野兔	yt;oy ye;ly tu;dd
 月野姬彩	yt;oy ye;ly ji;ni cl;pc
 月野木言叶	yt;oy ye;ly mu;ad yj;da ye;ku
@@ -47948,7 +47949,7 @@ use_preset_vocabulary: false
 月阳	yt;oy yh;eo
 月隐空夜	yt;oy yn;ej ks;xg ye;wd
 月雪宫子	yt;oy xt;yx gs;bl zi;aa
-月雪都子	yt;oy xt;yx db;ev zi;aa
+月雪都子	yt;oy xt;yx du;ev zi;aa
 月霖	yt;oy ln;yl
 月灵晶体	yt;oy ly;hx jy;oo ti;rb
 月面城市	yt;oy mm;aa ig;ti ui;wj
@@ -48142,7 +48143,7 @@ use_preset_vocabulary: false
 有钱就是任性	yb;ou qm;jj jq;yj ui;op rf;rr xy;xu
 有钱是真的能为所欲为的	yb;ou qm;jj ui;op vf;uj de;bu ng;sb wz;dd so;hj yu;qg wz;dd de;bu
 有闲阶级	yb;ou xm;mm jx;ej ji;sj
-有间都古	yb;ou jm;mo db;ev gu;uk
+有间都古	yb;ou jm;mo du;ev gu;uk
 有关火奴鲁鲁的二三事	yb;ou gr;qd ho;dd nu;ny lu;yo lu;yo de;bu er;aa sj;aa ui;aa
 有限公司	yb;ou xm;eg gs;sb si;gk
 有限动画	yb;ou xm;eg ds;ly hw;ak
@@ -48270,33 +48271,34 @@ use_preset_vocabulary: false
 望见音爱	wh;wo jm;ag yn;lo ai;vy
 望远镜	wh;wo yr;zy jy;jj
 望阿古斯	wh;wo aa;ek gu;uk si;jq
-朝之琉璃	ik;ou vi;dd lq;wi li;wl
+朝之琉璃	vk;ou vi;dd lq;wi li;wl
 朝九晚五堂	vk;ou jq;py wj;om wu;aa th;tk
-朝井彩加	ik;ou jy;aa cl;pc jw;lk
-朝井明	ik;ou jy;aa my;oo
+朝井彩加	vk;ou jy;aa cl;pc jw;lk
+朝井明	vk;ou jy;aa my;oo
 朝你做鬼脸	ik;ou ni;re zo;rg gv;pd lm;oa
 朝你大胯捏一把	ik;ou ni;re da;ad kw;ok nx;fn yi;aa ba;fb
 朝你迈步	ik;ou ni;re ml;zw bu;vx
 朝俞	ik;ou yu;rd
-朝仓凛茉	ik;ou ch;re ln;db mo;cm
-朝仓可怜	ik;ou ch;re ke;dk lm;xl
-朝仓恭一	ik;ou ch;re gs;gx yi;aa
-朝仓明雄	ik;ou ch;re my;oo xs;vh
-朝仓荣介	ik;ou ch;re rs;cm jx;ra
-朝仓凉子	ik;ou ch;re ld;dj zi;aa
-朝仓理香子	ik;ou ch;re li;wl xd;ho zi;aa
-朝仓由梦	ik;ou ch;re yb;aa mg;mx
-朝仓由姬	ik;ou ch;re yb;aa ji;ni
-朝仓美羽	ik;ou ch;re mz;dy yu;xx
-朝仓陆	ik;ou ch;re lu;ej
-朝仓音梦	ik;ou ch;re yn;lo mg;mx
-朝仓音姬	ik;ou ch;re yn;lo ji;ni
-朝仓音心	ik;ou ch;re yn;lo xn;dd
-朝仓鱼块	ik;ou ch;re yu;da ky;td
-朝凪依	ik;ou vi;jv yi;ry
-朝凪海	ik;ou vi;jv hl;dm
-朝加圭一郎	ik;ou jw;lk gv;tt yi;aa lh;el
-朝原铃音	ik;ou yr;ix ly;jl yn;lo
+朝俞	vk;ou yu;rd
+朝仓凛茉	vk;ou ch;re ln;db mo;cm
+朝仓可怜	vk;ou ch;re ke;dk lm;xl
+朝仓恭一	vk;ou ch;re gs;gx yi;aa
+朝仓明雄	vk;ou ch;re my;oo xs;vh
+朝仓荣介	vk;ou ch;re rs;cm jx;ra
+朝仓凉子	vk;ou ch;re ld;dj zi;aa
+朝仓理香子	vk;ou ch;re li;wl xd;ho zi;aa
+朝仓由梦	vk;ou ch;re yb;aa mg;mx
+朝仓由姬	vk;ou ch;re yb;aa ji;ni
+朝仓美羽	vk;ou ch;re mz;dy yu;xx
+朝仓陆	vk;ou ch;re lu;ej
+朝仓音梦	vk;ou ch;re yn;lo mg;mx
+朝仓音姬	vk;ou ch;re yn;lo ji;ni
+朝仓音心	vk;ou ch;re yn;lo xn;dd
+朝仓鱼块	vk;ou ch;re yu;da ky;td
+朝凪依	vk;ou vi;jv yi;ry
+朝凪海	vk;ou vi;jv hl;dm
+朝加圭一郎	vk;ou jw;lk gv;tt yi;aa lh;el
+朝原铃音	vk;ou yr;ix ly;jl yn;lo
 朝向拉普兰	ik;ou xd;pk la;fl pu;ob lj;bs
 朝向明天的边界线	ik;ou xd;pk my;oo tm;ad de;bu bm;zl jx;tj xm;sj
 朝向那边	ik;ou xd;pk na;el bm;zl
@@ -48305,12 +48307,12 @@ use_preset_vocabulary: false
 朝夕光年	vk;ou xi;pd gd;ea nm;ra
 朝夕日记	vk;ou xi;pd ri;aa ji;yj
 朝天辫	ik;ou tm;ad bm;sx
-朝奈	ik;ou nl;du
-朝宫椎名	ik;ou gs;bl vv;mv my;xk
-朝山	ik;ou uj;aa
-朝影悠一郎	ik;ou yy;pj yb;xw yi;aa lh;el
-朝律	ik;ou lv;xy
-朝户未世	ik;ou hu;dp wz;ex ui;ca
+朝奈	vk;ou nl;du
+朝宫椎名	vk;ou gs;bl vv;mv my;xk
+朝山	vk;ou uj;aa
+朝影悠一郎	vk;ou yy;pj yb;xw yi;aa lh;el
+朝律	vk;ou lv;xy
+朝户未世	vk;ou hu;dp wz;ex ui;ca
 朝日	vk;ou ri;aa
 朝日六花	vk;ou ri;aa lq;wb hw;ch
 朝日胜人	vk;ou ri;aa ug;ou rf;pd
@@ -48322,45 +48324,41 @@ use_preset_vocabulary: false
 朝日奈葵	vk;ou ri;aa nl;du kv;cg
 朝日娘	vk;ou ri;aa nd;nl
 朝日雫	vk;ou ri;aa na;yx
-朝武安晴	ik;ou wu;vy an;bn qy;oq
-朝武芳乃	ik;ou wu;vy fh;cf nl;pg
-朝死暮生	ik;ou si;db mu;om ug;na
-朝比奈一子	ik;ou bi;bb nl;du yi;aa zi;aa
-朝比奈乃乃	ik;ou bi;bb nl;du nl;pg nl;pg
-朝比奈伊吕波	ik;ou bi;bb nl;du yi;ry lv;kk bo;dp
-朝比奈凛	ik;ou bi;bb nl;du ln;db
-朝比奈千岁	ik;ou bi;bb nl;du qm;pa sv;ux
-朝比奈心美	ik;ou bi;bb nl;du xn;dd mz;dy
-朝比奈拓见	ik;ou bi;bb nl;du to;fu jm;ag
-朝比奈日和	ik;ou bi;bb nl;du ri;aa he;hk
-朝比奈晴	ik;ou bi;bb nl;du qy;oq
-朝比奈朱里	ik;ou bi;bb nl;du vu;pw li;aa
-朝比奈桃子	ik;ou bi;bb nl;du tk;mv zi;aa
-朝比奈凉风	ik;ou bi;bb nl;du ld;dj fg;ji
-朝比奈真冬	ik;ou bi;bb nl;du vf;uj ds;wd
-朝比奈菲娜	ik;ou bi;bb nl;du fz;cf na;nn
-朝比奈苍	ik;ou bi;bb nl;du ch;cc
-朝比奈觉	ik;ou bi;bb nl;du jt;dj
-朝比奈响子	ik;ou bi;bb nl;du xd;kx zi;aa
-朝汐	ik;ou xi;dx
-朝潮	ik;ou ik;di
-朝狗罗由真	ik;ou gb;qj lo;sx yb;aa vf;uj
-朝田诗乃	ik;ou tm;aa ui;ys nl;pg
-朝田阳贵	ik;ou tm;aa yh;eo gv;ba
+朝武安晴	vk;ou wu;vy an;bn qy;oq
+朝武芳乃	vk;ou wu;vy fh;cf nl;pg
+朝死暮生	vk;ou si;db mu;om ug;na
+朝比奈一子	vk;ou bi;bb nl;du yi;aa zi;aa
+朝比奈乃乃	vk;ou bi;bb nl;du nl;pg nl;pg
+朝比奈伊吕波	vk;ou bi;bb nl;du yi;ry lv;kk bo;dp
+朝比奈凛	vk;ou bi;bb nl;du ln;db
+朝比奈千岁	vk;ou bi;bb nl;du qm;pa sv;ux
+朝比奈心美	vk;ou bi;bb nl;du xn;dd mz;dy
+朝比奈拓见	vk;ou bi;bb nl;du to;fu jm;ag
+朝比奈日和	vk;ou bi;bb nl;du ri;aa he;hk
+朝比奈晴	vk;ou bi;bb nl;du qy;oq
+朝比奈朱里	vk;ou bi;bb nl;du vu;pw li;aa
+朝比奈桃子	vk;ou bi;bb nl;du tk;mv zi;aa
+朝比奈凉风	vk;ou bi;bb nl;du ld;dj fg;ji
+朝比奈真冬	vk;ou bi;bb nl;du vf;uj ds;wd
+朝比奈菲娜	vk;ou bi;bb nl;du fz;cf na;nn
+朝比奈苍	vk;ou bi;bb nl;du ch;cc
+朝比奈觉	vk;ou bi;bb nl;du jt;dj
+朝比奈响子	vk;ou bi;bb nl;du xd;kx zi;aa
+朝狗罗由真	vk;ou gb;qj lo;sx yb;aa vf;uj
+朝田诗乃	vk;ou tm;aa ui;ys nl;pg
+朝田阳贵	vk;ou tm;aa yh;eo gv;ba
 朝着不可见的黑暗堕落	ik;ou ve;yo bu;ad ke;dk jm;ag de;bu hz;ad an;oy do;td lo;cl
 朝着光芒	ik;ou ve;yo gd;ea mh;cw
 朝约薇儿丹蒂	ik;ou yt;su wz;cw er;pg dj;pd di;cd
-朝闻道	ik;ou wf;em dk;zu
+朝闻道	vk;ou wf;em dk;zu
 朝声音传来的方向	ik;ou ug;um yn;lo ir;rv ll;am de;bu fh;dg xd;pk
-朝花问	ik;ou hw;ch wf;km
 朝花夕誓	vk;ou hw;ch xi;pd ui;yv
-朝菜优奈	ik;ou cl;cc yb;ry nl;du
-朝蜘蛛	ik;ou vi;iv vu;iv
-朝辞白帝城	ik;ou ci;ux bl;pa di;jb ig;ti
-朝阳冬泳怪鸽	vk;ou yh;eo ds;wd ys;dy gy;xu ge;nh
-朝阳群众	vk;ou yh;eo qp;yj vs;rc
-朝云	ik;ou yp;es
-朝霜	ik;ou ud;yx
+朝菜优奈	vk;ou cl;cc yb;ry nl;du
+朝辞白帝城	vk;ou ci;ux bl;pa di;jb ig;ti
+朝阳冬泳怪鸽	ik;ou yh;eo ds;wd ys;dy gy;xu ge;nh
+朝阳群众	ik;ou yh;eo qp;yj vs;rc
+朝云	vk;ou yp;es
+朝霜	vk;ou ud;yx
 朝霞	vk;ou xw;yj
 朝霞中起烟的勿忘我	vk;ou xw;yj vs;aa qi;zj yj;hy de;bu wu;gp wh;xw wo;pd
 朝霞和晚霞都消失不见	vk;ou xw;yj he;hk wj;om xw;yj db;ev xc;dx ui;pf bu;ad jm;ag
@@ -48369,22 +48367,22 @@ use_preset_vocabulary: false
 朝霞的渐强音符	vk;ou xw;yj de;bu jm;dv qd;gs yn;lo fu;vf
 朝霞的渐进符号	vk;ou xw;yj de;bu jm;dv jn;zj fu;vf hk;kk
 朝霞与晚霞都消失不见	vk;ou xw;yj yu;aa wj;om xw;yj db;ev xc;dx ui;pf bu;ad jm;ag
-朝雾	ik;ou wu;yw
-朝雾七绪	ik;ou wu;yw qi;ag xu;sv
-朝雾卡夫卡	ik;ou wu;yw ka;bx fu;ad ka;bx
-朝雾友阳	ik;ou wu;yw yb;yu yh;eo
-朝雾史织	ik;ou wu;yw ui;ki vi;sv
-朝雾咲良	ik;ou wu;yw xc;kg ld;dg
-朝雾彩	ik;ou wu;yw cl;pc
-朝雾春奈	ik;ou wu;yw ip;of nl;du
-朝雾茜	ik;ou wu;yw qm;cx
-朝雾麻衣	ik;ou wu;yw ma;gl yi;dd
+朝雾	vk;ou wu;yw
+朝雾七绪	vk;ou wu;yw qi;ag xu;sv
+朝雾卡夫卡	vk;ou wu;yw ka;bx fu;ad ka;bx
+朝雾友阳	vk;ou wu;yw yb;yu yh;eo
+朝雾史织	vk;ou wu;yw ui;ki vi;sv
+朝雾咲良	vk;ou wu;yw xc;kg ld;dg
+朝雾彩	vk;ou wu;yw cl;pc
+朝雾春奈	vk;ou wu;yw ip;of nl;du
+朝雾茜	vk;ou wu;yw qm;cx
+朝雾麻衣	vk;ou wu;yw ma;gl yi;dd
 朝露短歌	vk;ou lu;yl dr;ud ge;qg
-朝颜	ik;ou yj;yy
-朝颜花江	ik;ou yj;yy hw;ch jd;dg
-朝颜花绘	ik;ou yj;yy hw;ch hv;sh
-朝风	ik;ou fg;ji
-朝香果林	ik;ou xd;ho go;ad ln;mm
+朝颜	vk;ou yj;yy
+朝颜花江	vk;ou yj;yy hw;ch jd;dg
+朝颜花绘	vk;ou yj;yy hw;ch hv;sh
+朝风	vk;ou fg;ji
+朝香果林	vk;ou xd;ho go;ad ln;mm
 朝鲜	ik;ou xm;yy
 朝鲜人民军歌	ik;ou xm;yy rf;pd mn;ag jp;bi ge;qg
 朝鲜战争	ik;ou xm;yy vj;gv vg;dy
@@ -49032,7 +49030,7 @@ use_preset_vocabulary: false
 本庄阿鲁	bf;aa vd;gt aa;ek lu;yo
 本藤悠彗	bf;aa tg;ct yb;xw hv;fx
 本质促动	bf;aa vi;bu cu;rz ds;ly
-本都	bf;aa db;ev
+本都	bf;aa du;ev
 本乡一叶	bf;aa xd;ap yi;aa ye;ku
 本乡唯	bf;aa xd;ap wz;kv
 本乡奏多	bf;aa xd;ap zb;ft do;xx
@@ -49716,7 +49714,7 @@ use_preset_vocabulary: false
 东京巨蛋	ds;ad jy;wx ju;kk dj;ip
 东京巴比伦	ds;ad jy;wx ba;ag bi;bb lp;rl
 东京幻想乡	ds;ad jy;wx hr;yg xd;xx xd;ap
-东京幻都	ds;ad jy;wx hr;yg db;ev
+东京幻都	ds;ad jy;wx hr;yg du;ev
 东京御宅约会	ds;ad jy;wx yu;xx vl;bq yt;su hv;ry
 东京复仇者	ds;ad jy;wx fu;wo ib;rj ve;lo
 东京复古	ds;ad jy;wx fu;wo gu;uk
@@ -49758,7 +49756,7 @@ use_preset_vocabulary: false
 东京都立高度育成高校	ds;ad jy;wx du;ev li;da gk;wk du;gy yu;os ig;gg gk;wk xc;mj
 东京都高度育成高校	ds;ad jy;wx du;ev gk;wk du;gy yu;os ig;gg gk;wk xc;mj
 东京都高度育成高等学校	ds;ad jy;wx du;ev gk;wk du;gy yu;os ig;gg gk;wk dg;vs xt;zb xc;mj
-东京隔都	ds;ad jy;wx ge;eg db;ev
+东京隔都	ds;ad jy;wx ge;eg du;ev
 东京电机大学	ds;ad jy;wx dm;ag ji;mj da;ad xt;zb
 东京电脑侦探团	ds;ad jy;wx dm;ag nk;ox vf;rv tj;fm tr;kc
 东京电视台最强传说	ds;ad jy;wx dm;ag ui;ju tl;sk zv;oq qd;gs ir;rv uo;yd
@@ -49993,7 +49991,7 @@ use_preset_vocabulary: false
 东方良平	ds;ad fh;dg ld;dg py;aa
 东方花映塚	ds;ad fh;dg hw;ch yy;oy vs;tv
 东方花蝴蝶	ds;ad fh;dg hw;ch hu;ih dx;im
-东方花都	ds;ad fh;dg hw;ch db;ev
+东方花都	ds;ad fh;dg hw;ch du;ev
 东方芸	ds;ad fh;dg yp;cy
 东方英雄	ds;ad fh;dg yy;cy xs;vh
 东方茨歌仙	ds;ad fh;dg ci;cc ge;qg xm;ru
@@ -50131,7 +50129,7 @@ use_preset_vocabulary: false
 东离剑游记	ds;ad li;ws jm;da yb;dz ji;yj
 东雪莲	ds;ad xt;yx lm;cl
 东云交错点	ds;ad yp;es jc;li co;jx dm;hv
-东云伊都	ds;ad yp;es yi;ry db;ev
+东云伊都	ds;ad yp;es yi;ry du;ev
 东云侑子	ds;ad yp;es yb;ry zi;aa
 东云名乃	ds;ad yp;es my;xk nl;pg
 东云和音	ds;ad yp;es he;hk yn;lo
@@ -50492,7 +50490,7 @@ use_preset_vocabulary: false
 林有史	ln;mm yb;ou ui;ki
 林有德	ln;mm yb;ou de;xx
 林有珍	ln;mm yb;ou vf;wp
-林朝雨	ln;mm ik;ou yu;ad
+林朝雨	ln;mm vk;ou yu;ad
 林杏子	ln;mm xy;mk zi;aa
 林果	ln;mm go;ad
 林果罗德艾根	ln;mm go;ad lo;sx de;xx ai;ci gf;mg
@@ -52222,7 +52220,7 @@ use_preset_vocabulary: false
 森冢骏	sf;ml vs;bd jp;mj
 森利夫	sf;ml li;hd fu;ad
 森功至	sf;ml gs;lg vi;tv
-森千早都	sf;ml qm;pa zk;ou db;ev
+森千早都	sf;ml qm;pa zk;ou du;ev
 森千晃	sf;ml qm;pa hd;og
 森友望未	sf;ml yb;yu wh;wo wz;ex
 森友莉世	sf;ml yb;yu li;cl ui;ca
@@ -52964,7 +52962,7 @@ use_preset_vocabulary: false
 标题党	bc;mu ti;uy dh;xx
 枢木朱雀	uu;mq mu;ad vu;pw qt;vx
 枢纽吟游曲	uu;mq nq;si yn;kj yb;dz qu;aa
-枢都夏莲	uu;mq db;ev xw;wz lm;cl
+枢都夏莲	uu;mq du;ev xw;wz lm;cl
 模仿和极彩度的灰	mo;mm fh;rf he;hk ji;mj cl;pc du;gy de;bu hv;hu
 模仿少女	mo;mm fh;rf uk;xp nv;aa
 模仿构图	mo;mm fh;rf gb;mg tu;kd
@@ -53875,7 +53873,7 @@ use_preset_vocabulary: false
 樱谋诡计	yy;my mb;ym gv;yw ji;yu
 樱谷响	yy;my gu;bk xd;kx
 樱迷宫	yy;my mi;zm gs;bl
-樱都子	yy;my db;ev zi;aa
+樱都子	yy;my du;ev zi;aa
 樱野亚玖璃	yy;my ye;ly ya;ay jq;wj li;wl
 樱野栗梦	yy;my ye;ly li;mx mg;mx
 樱野玖璃梦	yy;my ye;ly jq;wj li;wl mg;mx
@@ -53941,7 +53939,7 @@ use_preset_vocabulary: false
 次元魔法	ci;dq yr;aw mo;gm fa;dq
 次文化	ci;dq wf;wi hw;rb
 次日凌晨三点半	ci;dq ri;aa ly;dl if;oi sj;aa dm;hv bj;bf
-次日朝梦	ci;dq ri;aa ik;ou mg;mx
+次日朝梦	ci;dq ri;aa vk;ou mg;mx
 次狼	ci;dq lh;ql
 次生银翼	ci;dq ug;na yn;jg yi;yg
 次男道	ci;dq nj;tl dk;zu
@@ -53964,7 +53962,7 @@ use_preset_vocabulary: false
 欲于辉夜城起舞	yu;qg yu;aa hv;gj ye;wd ig;ti qi;zj wu;rf
 欲浴	yu;qg yu;dg
 欲速则不达	yu;qg su;zu ze;bd bu;ad da;zd
-欲都孤儿	yu;qg db;ev gu;zg er;pg
+欲都孤儿	yu;qg du;ev gu;zg er;pg
 欲鬼	yu;qg gv;pd
 欺凌道	qi;qq ly;dl dk;zu
 欺待	qi;qq dl;xs
@@ -54227,7 +54225,7 @@ use_preset_vocabulary: false
 欢迎回来	hr;qy yy;ze hv;kk ll;am
 欢迎回来爱丽丝	hr;qy yy;ze hv;kk ll;am ai;vy li;ad si;aa
 欢迎回家	hr;qy yy;ze hv;kk jw;bu
-欢都落兰	hr;qy db;ev lo;cl lj;bs
+欢都落兰	hr;qy du;ev lo;cl lj;bs
 止山枫实	vi;aa uj;aa fg;mf ui;bt
 止水域	vi;aa uv;ad yu;th
 止血贴	vi;aa xt;pa tx;bv
@@ -54637,7 +54635,7 @@ use_preset_vocabulary: false
 岁月流年	sv;ux yt;oy lq;di nm;ra
 岁月的代价	sv;ux yt;oy de;bu dl;ry jw;rj
 岁月葱律	sv;ux yt;oy cs;cc lv;xy
-岁岁朝朝	sv;ux sv;ux ik;ou ik;ou
+岁岁朝朝	sv;ux sv;ux vk;ou vk;ou
 岁相	sv;ux xd;mo
 岁纳京子	sv;ux na;sn jy;wx zi;aa
 岁衍流光处	sv;ux yj;xi lq;di gd;ea iu;wb
@@ -56088,7 +56086,7 @@ use_preset_vocabulary: false
 永远消失的幻想乡	ys;dd yr;zy xc;dx ui;pf de;bu hr;yg xd;xx xd;ap
 永远滴神	ys;dd yr;zy di;dd uf;uu
 永远的一瞬	ys;dd yr;zy de;bu yi;aa up;ou
-永远的七日之都	ys;dd yr;zy de;bu qi;ag ri;aa vi;dd db;ev
+永远的七日之都	ys;dd yr;zy de;bu qi;ag ri;aa vi;dd du;ev
 永远的不在场证明	ys;dd yr;zy de;bu bu;ad zl;ta ih;ty vg;yv my;oo
 永远的干涸	ys;dd yr;zy de;bu gj;aa he;dg
 永远的十七岁	ys;dd yr;zy de;bu ui;aa qi;ag sv;ux
@@ -56296,7 +56294,7 @@ use_preset_vocabulary: false
 池田晶	ii;dy tm;aa jy;oo
 池田晶子	ii;dy tm;aa jy;oo zi;aa
 池田朋子	ii;dy tm;aa pg;oo zi;aa
-池田朝右卫门	ii;dy tm;aa ik;ou yb;ku wz;ea mf;dg
+池田朝右卫门	ii;dy tm;aa vk;ou yb;ku wz;ea mf;dg
 池田江美	ii;dy tm;aa jd;dg mz;dy
 池田海咲	ii;dy tm;aa hl;dm xc;kg
 池田理代子	ii;dy tm;aa li;wl dl;ry zi;aa
@@ -56364,7 +56362,7 @@ use_preset_vocabulary: false
 决战中途岛	jt;dd vj;gv vs;aa tu;zy dk;nu
 决战之时	jt;dd vj;gv vi;dd ui;oc
 决战之火盖	jt;dd vj;gv vi;dd ho;dd gl;my
-决战之都	jt;dd vj;gv vi;dd db;ev
+决战之都	jt;dd vj;gv vi;dd du;ev
 决战兵器	jt;dd vj;gv by;qb qi;kk
 决战兵器之影灵衣	jt;dd vj;gv by;qb qi;kk vi;dd yy;pj ly;hx yi;dd
 决战前	jt;dd vj;gv qm;bd
@@ -56712,7 +56710,7 @@ use_preset_vocabulary: false
 沙漠姬改	ua;du mo;dm ji;ni gl;wj
 沙漠屠夫	ua;du mo;dm tu;uv fu;ad
 沙漠死神	ua;du mo;dm si;db uf;uu
-沙漠湖都	ua;du mo;dm hu;dh db;ev
+沙漠湖都	ua;du mo;dm hu;dh du;ev
 沙漠玫瑰	ua;du mo;dm mz;ww gv;wg
 沙漠的裁决	ua;du mo;dm de;bu cl;gy jt;dd
 沙漠的雪花	ua;du mo;dm de;bu xt;yx hw;ch
@@ -56871,7 +56869,7 @@ use_preset_vocabulary: false
 河野樱	he;dk ye;ly yy;my
 河野茉莉	he;dk ye;ly mo;cm li;cl
 河野裕	he;dk ye;ly yu;yg
-河野都	he;dk ye;ly db;ev
+河野都	he;dk ye;ly du;ev
 河野靖	he;dk ye;ly jy;lq
 河马	he;dk ma;aa
 河马先生	he;dk ma;aa xm;ne ug;na
@@ -57363,7 +57361,7 @@ use_preset_vocabulary: false
 泰勒	tl;fu le;lg
 泰勒巴特利特	tl;fu le;lg ba;ag te;ns li;hd te;ns
 泰勒巴特莱特	tl;fu le;lg ba;ag te;ns ll;cl te;ns
-泰勒斯侯米利都斯	tl;fu le;lg si;jq hb;ru mi;dd li;hd db;ev si;jq
+泰勒斯侯米利都斯	tl;fu le;lg si;jq hb;ru mi;dd li;hd du;ev si;jq
 泰勒斯托望远镜	tl;fu le;lg si;jq to;fq wh;wo yr;zy jy;jj
 泰哈撒禅雅塔	tl;fu ha;kh sa;fs ij;ud ya;vy ta;td
 泰国	tl;fu go;ky
@@ -57610,8 +57608,8 @@ use_preset_vocabulary: false
 洛维娜	lo;dg wz;sv na;nn
 洛缘安	lo;dg yr;st an;bn
 洛羲	lo;dg xi;yg
-洛圣都	lo;dg ug;ty db;ev
-洛圣都警察局	lo;dg ug;ty db;ev jy;yj ia;bj ju;uk
+洛圣都	lo;dg ug;ty du;ev
+洛圣都警察局	lo;dg ug;ty du;ev jy;yj ia;bj ju;uk
 洛芳	lo;dg fh;cf
 洛兹	lo;dg zi;by
 洛莎尤尔根	lo;dg ua;cu yb;ad er;dx gf;mg
@@ -57697,7 +57695,7 @@ use_preset_vocabulary: false
 洪炉示岁	hs;dg lu;hh ui;ex sv;ux
 洪荒世界	hs;dg hd;ci ui;ca jx;tj
 洪荒之力	hs;dg hd;ci vi;dd li;gp
-洪都拉斯	hs;dg db;ev la;fl si;jq
+洪都拉斯	hs;dg du;ev la;fl si;jq
 洪雄丽	hs;dg xs;vh li;ad
 洲崎宇奈	vb;dv qi;uq yu;by nl;du
 洲崎绫	vb;dv qi;uq ly;sl
@@ -58548,7 +58546,7 @@ use_preset_vocabulary: false
 消臭妖精诺尔	xc;dx ib;zq yk;ny jy;mq no;yr er;dx
 消逝	xc;dx ui;zv
 消逝之歌	xc;dx ui;zv vi;dd ge;qg
-消逝之都	xc;dx ui;zv vi;dd db;ev
+消逝之都	xc;dx ui;zv vi;dd du;ev
 消逝的光芒	xc;dx ui;zv de;bu gd;ea mh;cw
 消防员	xc;dx fh;ef yr;kb
 消防大本营	xc;dx fh;ef da;ad bf;aa yy;cl
@@ -59215,7 +59213,7 @@ use_preset_vocabulary: false
 清透翼同步龙	qy;dq tb;zx yi;yg ts;kk bu;vx ls;ad
 清透翼疾速龙	qy;dq tb;zx yi;yg ji;bu su;zu ls;ad
 清道夫	qy;dq dk;zu fu;ad
-清都亚里沙	qy;dq db;ev ya;ay li;aa ua;du
+清都亚里沙	qy;dq du;ev ya;ay li;aa ua;du
 清酒	qy;dq jq;dy
 清醒	qy;dq xy;yx
 清野有沙	qy;dq ye;ly yb;ou ua;du
@@ -59423,8 +59421,8 @@ use_preset_vocabulary: false
 湖泊	hu;dh po;db
 湖畔激战	hu;dh pj;tb ji;dj vj;gv
 湖边小屋	hu;dh bm;zl xc;ad wu;uv
-湖都	hu;dh db;ev
-湖都的人气舞者	hu;dh db;ev de;bu rf;pd qi;py wu;rf ve;lo
+湖都	hu;dh du;ev
+湖都的人气舞者	hu;dh du;ev de;bu rf;pd qi;py wu;rf ve;lo
 湘北高中	xd;dx bz;ap gk;wk vs;aa
 湘北高校	xd;dx bz;ap gk;wk xc;mj
 湘南乃风	xd;dx nj;ua nl;pg fg;ji
@@ -60421,7 +60419,7 @@ use_preset_vocabulary: false
 济远	ji;dq yr;zy
 濡女子	ru;dx nv;aa zi;aa
 濡乌	ru;dx wu;pa
-濡衣由都梨	ru;dx yi;dd yb;aa db;ev li;ml
+濡衣由都梨	ru;dx yi;dd yb;aa du;ev li;ml
 濡鸦之巫女	ru;dx ya;ny vi;dd wu;gc nv;aa
 涛神	tk;du uf;uu
 滥权	lj;dj qr;my
@@ -60520,7 +60518,7 @@ use_preset_vocabulary: false
 泷沉琉璃	ls;dl if;dj lq;wi li;wl
 泷泽久美子	ls;dl ze;df jq;pd mz;dy zi;aa
 泷泽嬉子	ls;dl ze;df xi;nx zi;aa
-泷泽朝介	ls;dl ze;df ik;ou jx;ra
+泷泽朝介	ls;dl ze;df vk;ou jx;ra
 泷泽杏	ls;dl ze;df xy;mk
 泷泽葵	ls;dl ze;df kv;cg
 泷泽飞鸟	ls;dl ze;df fz;yd nc;na
@@ -61205,7 +61203,7 @@ use_preset_vocabulary: false
 乌丸紫月	wu;pa wj;jd zi;sc yt;oy
 乌丸莲耶	wu;pa wj;jd lm;cl ye;ee
 乌丸连耶	wu;pa wj;jd lm;zi ye;ee
-乌丸都	wu;pa wj;jd db;ev
+乌丸都	wu;pa wj;jd du;ev
 乌丸集团	wu;pa wj;jd ji;mv tr;kc
 乌丸黑衣	wu;pa wj;jd hz;ad yi;dd
 乌伊	wu;pa yi;ry
@@ -62923,7 +62921,7 @@ use_preset_vocabulary: false
 物质重组	wu;nw vi;bu is;pa zu;sq
 物述有栖	wu;nw uu;zu yb;ou qi;mx
 物部千翼	wu;nw bu;ek qm;pa yi;yg
-物部布都	wu;nw bu;ek bu;ju db;ev
+物部布都	wu;nw bu;ek bu;ju du;ev
 物间宁人	wu;nw jm;mo ny;bd rf;pd
 物体消失	wu;nw ti;rb xc;dx ui;pf
 物体缩放	wu;nw ti;rb so;ss fh;wf
@@ -63649,7 +63647,7 @@ use_preset_vocabulary: false
 猿渡俊助	yr;qy du;dd jp;rj vu;lq
 猿渡宇希	yr;qy du;dd yu;by xi;ju
 猿渡月美	yr;qy du;dd yt;oy mz;dy
-猿渡真都	yr;qy du;dd vf;uj db;ev
+猿渡真都	yr;qy du;dd vf;uj du;ev
 猿渡银兵卫春臣	yr;qy du;dd yn;jg by;qb wz;ea ip;of if;aa
 猿田彦	yr;qy tm;aa yj;ip
 猿田暖	yr;qy tm;aa nr;oy
@@ -64287,9 +64285,9 @@ use_preset_vocabulary: false
 王道游步	wh;aa dk;zu yb;dz bu;vx
 王道游飞	wh;aa dk;zu yb;dz fz;yd
 王道长可能会摔手机	wh;aa dk;zu vh;pd ke;dk ng;sb hv;ry uy;fl ub;pa ji;mj
-王都创世物语	wh;aa db;ev id;dc ui;ca wu;nw yu;yw
-王都楼真悟	wh;aa db;ev lb;ml vf;uj wu;xw
-王都的勇士琪莉	wh;aa db;ev de;bu ys;ly ui;aa qi;wq li;cl
+王都创世物语	wh;aa du;ev id;dc ui;ca wu;nw yu;yw
+王都楼真悟	wh;aa du;ev lb;ml vf;uj wu;xw
+王都的勇士琪莉	wh;aa du;ev de;bu ys;ly ui;aa qi;wq li;cl
 王钰涵	wh;aa yu;jy hj;dh
 王铕瑞	wh;aa yb;jy rv;we
 王陆	wh;aa lu;ej
@@ -65514,7 +65512,7 @@ use_preset_vocabulary: false
 甘神夜重	gj;aa uf;uu ye;wd vs;pa
 甘神大人的糖浆恋祭	gj;aa uf;uu da;ad rf;pd de;bu th;mt jd;ux lm;xy ji;uy
 甘神家的连理枝	gj;aa uf;uu jw;bu de;bu lm;zi li;wl vi;mv
-甘神朝姬	gj;aa uf;uu ik;ou ji;ni
+甘神朝姬	gj;aa uf;uu vk;ou ji;ni
 甘粕	gj;aa po;mb
 甘粕巴里天治	gj;aa po;mb ba;ag li;aa tm;ad vi;dt
 甘粕桧曾根	gj;aa po;mb gv;mh zg;ob gf;mg
@@ -66443,7 +66441,7 @@ use_preset_vocabulary: false
 异父异母的亲兄弟	yi;cs fu;bi yi;cs mu;vd de;bu qn;lm xs;ke di;bp
 异物簿	yi;cs wu;nw bu;vc
 异物薄	yi;cs wu;nw bk;cc
-异兽魔都	yi;cs ub;ka mo;gm db;ev
+异兽魔都	yi;cs ub;ka mo;gm du;ev
 异生兽	yi;cs ug;na ub;ka
 异界	yi;cs jx;tj
 异界事务所	yi;cs jx;tj ui;aa wu;wl so;hj
@@ -66738,7 +66736,7 @@ use_preset_vocabulary: false
 疯狂熊猫团	fg;bf kd;qw xs;hn mk;qm tr;kc
 疯狂的自我主义者	fg;bf kd;qw de;bu zi;pa wo;pd vu;dw yi;di ve;lo
 疯狂砸汽车	fg;bf kd;qw za;uz qi;dq ie;aa
-疯狂约会美丽都	fg;bf kd;qw yt;su hv;ry mz;dy li;ad db;ev
+疯狂约会美丽都	fg;bf kd;qw yt;su hv;ry mz;dy li;ad du;ev
 疯狂绽放的樱花	fg;bf kd;qw vj;sd fh;wf de;bu yy;my hw;ch
 疯狂药剂师	fg;bf kd;qw yk;cy ji;dq ui;ab
 疯狂装置	fg;bf kd;qw vd;yv vi;sv
@@ -67075,7 +67073,7 @@ use_preset_vocabulary: false
 白桦	bl;pa hw;mh
 白桦康隆	bl;pa hw;mh kh;gl ls;eu
 白桦莉莎	bl;pa hw;mh li;cl ua;cu
-白桦都	bl;pa hw;mh db;ev
+白桦都	bl;pa hw;mh du;ev
 白桦丽莎	bl;pa hw;mh li;ad ua;cu
 白檀笼女	bl;pa tj;md ls;vl nv;aa
 白樱	bl;pa yy;my
@@ -67336,7 +67334,7 @@ use_preset_vocabulary: false
 白莲寺丽人	bl;pa lm;cl si;ct li;ad rf;pd
 白薇	bl;pa wz;cw
 白薯女	bl;pa uu;cu nv;aa
-白藏主	bl;pa ch;cg vu;dw
+白藏主	bl;pa zh;cg vu;dw
 白藤友菜	bl;pa tg;ct yb;yu cl;cc
 白藤杏子	bl;pa tg;ct xy;mk zi;aa
 白兰	bl;pa lj;bs
@@ -67873,7 +67871,7 @@ use_preset_vocabulary: false
 皇甫上人	hd;bw fu;ad uh;aa rf;pd
 皇甫卓	hd;bw fu;ad vo;bu
 皇甫嵩	hd;bw fu;ad ss;ug
-皇甫朝云	hd;bw fu;ad ik;ou yp;es
+皇甫朝云	hd;bw fu;ad vk;ou yp;es
 皇甫申	hd;bw fu;ad uf;aa
 皇甫蛆	hd;bw fu;ad qu;iq
 皇甫龙斗	hd;bw fu;ad ls;ad db;du
@@ -68373,7 +68371,7 @@ use_preset_vocabulary: false
 相川千穗	xd;mo ir;pa qm;pa sv;hh
 相川寿里	xd;mo ir;pa ub;cf li;aa
 相川奈央	xd;mo ir;pa nl;du yh;ad
-相川奈都姬	xd;mo ir;pa nl;du db;ev ji;ni
+相川奈都姬	xd;mo ir;pa nl;du du;ev ji;ni
 相川奏多	xd;mo ir;pa zb;ft do;xx
 相川始	xd;mo ir;pa ui;nt
 相川实优羽	xd;mo ir;pa ui;bt yb;ry yu;xx
@@ -68465,7 +68463,7 @@ use_preset_vocabulary: false
 相遇之地	xd;mo yu;zy vi;dd di;ty
 相遇天使	xd;mo yu;zy tm;ad ui;rl
 相遇论	xd;mo yu;zy lp;yl
-相野未都	xd;mo ye;ly wz;ex db;ev
+相野未都	xd;mo ye;ly wz;ex du;ev
 相关事件	xd;mo gr;qd ui;aa jm;rn
 相关人士生日信息	xd;mo gr;qd rf;pd ui;aa ug;na ri;aa xn;ry xi;xz
 相关人物	xd;mo gr;qd rf;pd wu;nw
@@ -69357,7 +69355,7 @@ use_preset_vocabulary: false
 石田介雄	ui;kp tm;aa jx;ra xs;vh
 石田佑康	ui;kp tm;aa yb;ry kh;gl
 石田可奈	ui;kp tm;aa ke;dk nl;du
-石田和朝仓	ui;kp tm;aa he;hk ik;ou ch;re
+石田和朝仓	ui;kp tm;aa he;hk vk;ou ch;re
 石田嘉代	ui;kp tm;aa jw;uj dl;ry
 石田大和	ui;kp tm;aa da;ad he;hk
 石田奈央美	ui;kp tm;aa nl;du yh;ad mz;dy
@@ -69371,7 +69369,7 @@ use_preset_vocabulary: false
 石田美也子	ui;kp tm;aa mz;dy ye;gg zi;aa
 石田翠	ui;kp tm;aa cv;yz
 石田耀子	ui;kp tm;aa yk;gd zi;aa
-石田与朝仓	ui;kp tm;aa yu;aa ik;ou ch;re
+石田与朝仓	ui;kp tm;aa yu;aa vk;ou ch;re
 石田萌	ui;kp tm;aa mg;cm
 石田阳子	ui;kp tm;aa yh;eo zi;aa
 石田雨龙	ui;kp tm;aa yu;ad ls;ad
@@ -70157,7 +70155,7 @@ use_preset_vocabulary: false
 神兵小将片尾曲	uf;uu by;qb xc;ad jd;dc pm;pa wz;um qu;aa
 神典韦武器库	uf;uu dm;ba wz;aa wu;vy qi;kk ku;gi
 神凪绫乃	uf;uu vi;jv ly;sl nl;pg
-神凪莉都	uf;uu vi;jv li;cl db;ev
+神凪莉都	uf;uu vi;jv li;cl du;ev
 神凪雅	uf;uu vi;jv ya;vy
 神出鬼没	uf;uu iu;ck gv;pd mo;du
 神刀胧	uf;uu dk;gp ls;ol
@@ -70713,8 +70711,8 @@ use_preset_vocabulary: false
 神游科技	uf;uu yb;dz ke;hd ji;fv
 神道国幻想	uf;uu dk;zu go;ky hr;yg xd;xx
 神道爱之介	uf;uu dk;zu ai;vy vi;dd jx;ra
-神都	uf;uu db;ev
-神都夜行录	uf;uu db;ev ye;wd xy;xd lu;au
+神都	uf;uu du;ev
+神都夜行录	uf;uu du;ev ye;wd xy;xd lu;au
 神野光	uf;uu ye;ly gd;ea
 神野凪	uf;uu ye;ly vi;jv
 神野惠	uf;uu ye;ly hv;xh
@@ -71460,7 +71458,7 @@ use_preset_vocabulary: false
 程昱	ig;hi yu;ol
 程普	ig;hi pu;ob
 程书林	ig;hi uu;ad ln;mm
-程朝烟	ig;hi ik;ou yj;hy
+程朝烟	ig;hi vk;ou yj;hy
 程梓婳	ig;hi zi;mx hw;nh
 程洁	ig;hi jx;dj
 程玉珠	ig;hi yu;ad vu;wv
@@ -73501,7 +73499,7 @@ use_preset_vocabulary: false
 系统崩溃	xi;ps ts;si bg;up kv;dg
 系统工程师	xi;ps ts;si gs;aa ig;hi ui;ab
 系统破坏神	xi;ps ts;si po;up hy;tb uf;uu
-系都新干线	xi;ps db;ev xn;jq gj;aa xm;sj
+系都新干线	xi;ps du;ev xn;jq gj;aa xm;sj
 纪代	ji;sj dl;ry
 纪代因果	ji;sj dl;ry yn;kd go;ad
 纪伊	ji;sj yi;ry
@@ -74462,7 +74460,7 @@ use_preset_vocabulary: false
 紫衣佬	zi;sc yi;dd lk;rl
 紫护莉珑	zi;sc hu;fh li;cl ls;wl
 紫貂	zi;sc dc;vv
-紫都	zi;sc db;ev
+紫都	zi;sc du;ev
 紫酱	zi;sc jd;yx
 紫锥花	zi;sc vv;jv hw;ch
 紫锥菊	zi;sc vv;jv ju;cj
@@ -74979,7 +74977,7 @@ use_preset_vocabulary: false
 统堂英玲奈	ts;si th;tk yy;cy ly;wl nl;du
 统失	ts;si ui;pf
 统帅	ts;si uy;aj
-统帅恺撒神之子奥古斯都	ts;si uy;aj kl;xj sa;fs uf;uu vi;dd zi;aa ao;dm gu;uk si;jq db;ev
+统帅恺撒神之子奥古斯都	ts;si uy;aj kl;xj sa;fs uf;uu vi;dd zi;aa ao;dm gu;uk si;jq du;ev
 统括理事会	ts;si ko;fu li;wl ui;aa hv;ry
 统治魔界的我旺	ts;si vi;dt mo;gm jx;tj de;bu wo;pd wh;ow
 统计	ts;si ji;yu
@@ -76679,7 +76677,7 @@ use_preset_vocabulary: false
 美军	mz;dy jp;bi
 美游世界	mz;dy yb;dz ui;ca jx;tj
 美游艾德费尔特	mz;dy yb;dz ai;ci de;xx fz;bf er;dx te;ns
-美都场菜绪	mz;dy db;ev ih;ty cl;cc xu;sv
+美都场菜绪	mz;dy du;ev ih;ty cl;cc xu;sv
 美里	mz;dy li;aa
 美野里	mz;dy ye;ly li;aa
 美铃	mz;dy ly;jl
@@ -76767,6 +76765,7 @@ use_preset_vocabulary: false
 群色鬼	qp;yj se;db gv;pd
 群英集	qp;yj yy;cy ji;mv
 群藏	qp;yj ch;cg
+群藏	qp;yj zh;cg
 群豪卡组	qp;yj hk;ub ka;bx zu;sq
 群除我佬	qp;yj iu;ey wo;pd lk;rl
 群雄割据	qp;yj xs;vh ge;dh ju;fj
@@ -77524,7 +77523,7 @@ use_preset_vocabulary: false
 圣路易斯	ug;ty lu;zg yi;ow si;jq
 圣迭戈	ug;ty dx;zu ge;ad
 圣遗物	ug;ty yi;zg wu;nw
-圣都的良心阿黛儿	ug;ty db;ev de;bu ld;dg xn;dd aa;ek dl;hd er;pg
+圣都的良心阿黛儿	ug;ty du;ev de;bu ld;dg xn;dd aa;ek dl;hd er;pg
 圣里奥堡垒	ug;ty li;aa ao;dm bk;tb lz;st
 圣钉	ug;ty dy;jd
 圣锤之毅	ug;ty iv;ji vi;dd yi;lu
@@ -78135,7 +78134,7 @@ use_preset_vocabulary: false
 腐败庭园	fu;gr bl;bw ty;gt yr;ky
 腐败骑士	fu;gr bl;bw qi;mq ui;aa
 腐朽之声	fu;gr xq;mk vi;dd ug;um
-腐朽之都	fu;gr xq;mk vi;dd db;ev
+腐朽之都	fu;gr xq;mk vi;dd du;ev
 腐灭者	fu;gr mx;ah ve;lo
 腐烂女孩的变态浪漫	fu;gr lj;hl nv;aa hl;zh de;bu bm;wy tl;xt lh;dl mj;dm
 腐男	fu;gr nj;tl
@@ -78149,7 +78148,7 @@ use_preset_vocabulary: false
 腐臭蛋	fu;gr ib;zq dj;ip
 腐草为萤	fu;gr ck;cz wz;dd yy;ci
 腐蚀能力	fu;gr ui;ui ng;sb li;gp
-腐都	fu;gr db;ev
+腐都	fu;gr du;ev
 腐面	fu;gr mm;aa
 腓力	fz;of li;gp
 腓尼基	fz;of ni;ub ji;tq
@@ -78310,7 +78309,7 @@ use_preset_vocabulary: false
 临时武器	ln;ao ui;oc wu;vy qi;kk
 临时行车时间表	ln;ao ui;oc hh;xd ie;aa ui;oc jm;mo bc;fy
 临死	ln;ao si;db
-临海副都心	ln;ao hl;dm fu;df db;ev xn;dd
+临海副都心	ln;ao hl;dm fu;df du;ev xn;dd
 临海学校	ln;ao hl;dm xt;zb xc;mj
 临海忆夏	ln;ao hl;dm yi;xy xw;wz
 临淄一中	ln;ao zi;dt yi;aa vs;aa
@@ -80080,7 +80079,7 @@ use_preset_vocabulary: false
 花月妖	hw;ch yt;oy yk;ny
 花月精灵	hw;ch yt;oy jy;mq ly;hx
 花月谣	hw;ch yt;oy yk;yf
-花朝可期	hw;ch ik;ou ke;dk qi;oq
+花朝可期	hw;ch vk;ou ke;dk qi;oq
 花期未完	hw;ch qi;oq wz;ex wj;by
 花木兰	hw;ch mu;ad lj;bs
 花木兰的秘密	hw;ch mu;ad lj;bs de;bu mi;hb mi;ub
@@ -82862,8 +82861,8 @@ use_preset_vocabulary: false
 蒲池幸子	pu;cp ii;dy xy;tu zi;aa
 蒲烧鳗鱼	pu;cp uk;hy mj;ym yu;da
 蒲田公英	pu;cp tm;aa gs;sb yy;cy
-蒸汽之都的侦探少女	vg;hv qi;dq vi;dd db;ev de;bu vf;rv tj;fm uk;xp nv;aa
-蒸汽之都的少女侦探	vg;hv qi;dq vi;dd db;ev de;bu uk;xp nv;aa vf;rv tj;fm
+蒸汽之都的侦探少女	vg;hv qi;dq vi;dd du;ev de;bu vf;rv tj;fm uk;xp nv;aa
+蒸汽之都的少女侦探	vg;hv qi;dq vi;dd du;ev de;bu uk;xp nv;aa vf;rv tj;fm
 蒸汽娘	vg;hv qi;dq nd;nl
 蒸汽少女艾璐璐	vg;hv qi;dq uk;xp nv;aa ai;ci lu;wl lu;wl
 蒸汽旋翼机人	vg;hv qi;dq xr;fp yi;yg ji;mj rf;pd
@@ -82991,7 +82990,7 @@ use_preset_vocabulary: false
 苍衣铃	ch;cc yi;dd ly;jl
 苍谷和树	ch;cc gu;bk he;hk uu;md
 苍辉银河	ch;cc hv;gj yn;jg he;dk
-苍都	ch;cc db;ev
+苍都	ch;cc du;ev
 苍银的碎片	ch;cc yn;jg de;bu sv;uz pm;pa
 苍云	ch;cc yp;es
 苍云军	ch;cc yp;es jp;bi
@@ -84066,7 +84065,7 @@ use_preset_vocabulary: false
 藤枝菖蒲	tg;ct vi;mv ih;ci pu;cp
 藤森文子	tg;ct sf;ml wf;wi zi;aa
 藤森步	tg;ct sf;ml bu;vx
-藤森水都	tg;ct sf;ml uv;ad db;ev
+藤森水都	tg;ct sf;ml uv;ad du;ev
 藤森雪奈	tg;ct sf;ml xt;yx nl;du
 藤椒酱	tg;ct jc;mu jd;yx
 藤椒酱花椒酱	tg;ct jc;mu jd;yx hw;ch jc;mu jd;yx
@@ -85970,7 +85969,7 @@ use_preset_vocabulary: false
 里希特巴哈	li;aa xi;ju te;ns ba;ag ha;kh
 里帐	li;aa vh;ji
 里德利威尔士	li;aa de;xx li;hd wz;gn er;dx ui;aa
-里朝雾	li;aa ik;ou wu;yw
+里朝雾	li;aa vk;ou wu;yw
 里村茜	li;aa cp;mc qm;cx
 里染天马	li;aa rj;mg tm;ad ma;aa
 里柯布雷骞丝卡	li;aa ke;mk bu;ju lz;yt qm;bm si;aa ka;bx
@@ -86824,7 +86823,7 @@ use_preset_vocabulary: false
 角虫	jc;dy is;ad
 角谷冬美	jc;dy gu;bk ds;wd mz;dy
 角谷杏	jc;dy gu;bk xy;mk
-角都	jc;dy db;ev
+角都	jc;dy du;ev
 角马子	jc;dy ma;aa zi;aa
 角马子改	jc;dy ma;aa zi;aa gl;wj
 角斗场	jt;dy db;du ih;ty
@@ -86871,7 +86870,7 @@ use_preset_vocabulary: false
 触痕	iu;ji hf;bg
 触发器	iu;ji fa;ay qi;kk
 触碰花瓶	iu;ji pg;ub hw;ch py;wb
-触祭之都	iu;ji ji;uy vi;dd db;ev
+触祭之都	iu;ji ji;uy vi;dd du;ev
 触角	iu;ji jc;dy
 言不由衷的冰室同学	yj;da bu;ad yb;aa vs;wy de;bu by;du ui;bv ts;kk xt;zb
 言之花	yj;da vi;dd hw;ch
@@ -86934,7 +86933,7 @@ use_preset_vocabulary: false
 计算机	ji;yu sr;vc ji;mj
 计算障碍	ji;yu sr;vc vh;ev ai;uc
 计蒙驱逐舰	ji;yu mg;cm qu;mq vu;zu jm;vj
-计都	ji;yu db;ev
+计都	ji;yu du;ev
 计量官	ji;yu ld;ol gr;bg
 讯使	xp;yu ui;rl
 讨伐	tk;yc fa;rg
@@ -88257,7 +88256,7 @@ use_preset_vocabulary: false
 丰胸卡比	fg;aa xs;ox ka;bx bi;bb
 丰臣秀吉	fg;aa if;aa xq;hn ji;ku
 丰裕之角	fg;aa yu;yg vi;dd jc;dy
-丰见亚都梨	fg;aa jm;ag ya;ay db;ev li;ml
+丰见亚都梨	fg;aa jm;ag ya;ay du;ev li;ml
 丰见柯托莉	fg;aa jm;ag ke;mk to;fq li;cl
 丰见琴里	fg;aa jm;ag qn;wj li;aa
 丰足惠名	fg;aa zu;kv hv;xh my;xk
@@ -88310,7 +88309,7 @@ use_preset_vocabulary: false
 豪华游轮大纪行	hk;ub hw;uh yb;dz lp;il da;ad ji;sj xy;xd
 豪叶	hk;ub ye;ku
 豪鬼	hk;ub gv;pd
-豫母都日狭美	yu;yx mu;vd db;ev ri;aa xw;qj mz;dy
+豫母都日狭美	yu;yx mu;vd du;ev ri;aa xw;qj mz;dy
 猪八戒	vu;qv ba;pd jx;gc
 猪口有佳	vu;qv kb;aa yb;ou jw;rg
 猪命	vu;qv my;re
@@ -89040,7 +89039,7 @@ use_preset_vocabulary: false
 赛事贺图	sl;bb ui;aa he;bj tu;kd
 赛亚人	sl;bb ya;ay rf;pd
 赛亚斯	sl;bb ya;ay si;jq
-赛伊朝雾	sl;bb yi;ry ik;ou wu;yw
+赛伊朝雾	sl;bb yi;ry vk;ou wu;yw
 赛佛勒斯石内卜	sl;bb fu;rf le;lg si;jq ui;kp nz;ad bu;ad
 赛佛哈定	sl;bb fu;rf ha;kh dy;bp
 赛依连瓦恩萨	sl;bb yi;ry lm;zi wa;ad en;xy sa;ci
@@ -90108,7 +90107,7 @@ use_preset_vocabulary: false
 足锚水母	zu;kv mk;jm uv;ad mu;vd
 足音苹果挞	zu;kv yn;lo py;cp go;ad ta;fd
 足音苹果派	zu;kv yn;lo py;cp go;ad pl;dp
-足须沙穗都	zu;kv xu;py ua;du sv;hh db;ev
+足须沙穗都	zu;kv xu;py ua;du sv;hh du;ev
 趴趴一览	pa;zb pa;zb yi;aa lj;jv
 跋扈之沙	ba;zb hu;hb vi;dd ua;du
 跋掣	ba;zb ie;uv
@@ -92713,7 +92712,7 @@ use_preset_vocabulary: false
 遗迹的魔矿战士	yi;zg ji;zy de;bu mo;gm kd;ug vj;gv ui;aa
 遗迹重机	yi;zg ji;zy vs;pa ji;mj
 遗迹龙兽	yi;zg ji;zy ls;ad ub;ka
-辽宁朝阳冬泳怪鸽	lc;zl ny;bd vk;ou yh;eo ds;wd ys;dy gy;xu ge;nh
+辽宁朝阳冬泳怪鸽	lc;zl ny;bd ik;ou yh;eo ds;wd ys;dy gy;xu ge;nh
 辽宁舰娘	lc;zl ny;bd jm;vj nd;nl
 辽宁号	lc;zl ny;bd hk;kk
 辽宁号娘	lc;zl ny;bd hk;kk nd;nl
@@ -93130,11 +93129,11 @@ use_preset_vocabulary: false
 邮轮	yb;ey lp;il
 邮递员	yb;ey di;zd yr;kb
 邮递型游戏	yb;ey di;zd xy;tx yb;dz xi;yg
-都丸千代	db;ev wj;jd qm;pa dl;ry
-都俊赫	db;ev jp;rj he;ii
-都合	db;ev he;rk
+都丸千代	du;ev wj;jd qm;pa dl;ry
+都俊赫	du;ev jp;rj he;ii
+都合	du;ev he;rk
 都城大本营	du;ev ig;ti da;ad bf;aa yy;cl
-都妙璃	db;ev mc;nu li;wl
+都妙璃	du;ev mc;nu li;wl
 都市	du;ev ui;wj
 都市之子	du;ev ui;wj vi;dd zi;aa
 都市传说	du;ev ui;wj ir;rv uo;yd
@@ -93143,24 +93142,24 @@ use_preset_vocabulary: false
 都市大亨物语	du;ev ui;wj da;ad hg;wl wu;nw yu;yw
 都市天际线	du;ev ui;wj tm;ad ji;eu xm;sj
 都忘掉吧	db;ev wh;xw dc;fv ba;kb
-都于郡城	db;ev yu;aa jp;ej ig;ti
-都春	db;ev ip;of
+都于郡城	du;ev yu;aa jp;ej ig;ti
+都春	du;ev ip;of
 都是世界的错	db;ev ui;op ui;ca jx;tj de;bu co;jx
 都是夏美子的错	db;ev ui;op xw;wz mz;dy zi;aa de;bu co;jx
 都是想忘记的事情	db;ev ui;op xd;xx wh;xw ji;yj de;bu ui;aa qy;xq
 都是我的错	db;ev ui;op wo;pd de;bu co;jx
 都是时臣的错	db;ev ui;op ui;oc if;aa de;bu co;jx
-都月彩枫	db;ev yt;oy cl;pc fg;mf
-都瓦克因	db;ev wa;ad ke;eg yn;kd
-都立阵代高中	db;ev li;da vf;ei dl;ry gk;wk vs;aa
-都立阵代高校	db;ev li;da vf;ei dl;ry gk;wk xc;mj
-都筑圭	db;ev vu;vg gv;tt
-都筑巧	db;ev vu;vg qc;gk
-都筑诗船	db;ev vu;vg ui;ys ir;vk
+都月彩枫	du;ev yt;oy cl;pc fg;mf
+都瓦克因	du;ev wa;ad ke;eg yn;kd
+都立阵代高中	du;ev li;da vf;ei dl;ry gk;wk vs;aa
+都立阵代高校	du;ev li;da vf;ei dl;ry gk;wk xc;mj
+都筑圭	du;ev vu;vg gv;tt
+都筑巧	du;ev vu;vg qc;gk
+都筑诗船	du;ev vu;vg ui;ys ir;vk
 都给你梭哈喽	db;ev gz;sh ni;re so;mj ha;kh lb;kl
-都艾	db;ev ai;ci
-都越空	db;ev yt;zy ks;xg
-都雏乃	db;ev iu;iv nl;pg
+都艾	du;ev ai;ci
+都越空	du;ev yt;zy ks;xg
+都雏乃	du;ev iu;iv nl;pg
 鄂霍次克旅情歌	ee;ee ho;yv ci;dq ke;eg lv;fp qy;xq ge;qg
 乡情曲	xd;ap qy;xq qu;aa
 乡文裕贵	xd;ap wf;wi yu;yg gv;ba
@@ -93263,8 +93262,8 @@ use_preset_vocabulary: false
 邻座的艾琳同学偶尔会用俄语悄悄撒娇	ln;el zo;gz de;bu ai;ci ln;wl ts;kk xt;zb ou;ry er;dx hv;ry ys;kf ee;rw yu;yw qc;xx qc;xx sa;fs jc;nq
 邻座的关君	ln;el zo;gz de;bu gr;qd jp;ky
 邻里天涯	ln;el li;aa tm;ad ya;dy
-酆都冥司记	fg;ed db;ev my;bl si;gk ji;yj
-酆都地府篇	fg;ed db;ev di;ty fu;gf pm;vb
+酆都冥司记	fg;ed du;ev my;bl si;gk ji;yj
+酆都地府篇	fg;ed du;ev di;ty fu;gf pm;vb
 酉之市	yb;aa vi;dd ui;wj
 酉鸡娘	yb;aa ji;ny nd;nl
 酋长	qq;by vh;pd
@@ -95185,7 +95184,7 @@ use_preset_vocabulary: false
 钟乐天	vs;jv le;pd tm;ad
 钟楼的钟	vs;jv lb;ml de;bu vs;jv
 钟声协和号	vs;jv ug;um xx;ub he;hk hk;kk
-钟表之都瑞士	vs;jv bc;fy vi;dd db;ev rv;we ui;aa
+钟表之都瑞士	vs;jv bc;fy vi;dd du;ev rv;we ui;aa
 钟表小子	vs;jv bc;fy xc;ad zi;aa
 镨娘	pu;jp nd;nl
 锎娘	kl;jk nd;nl
@@ -95564,7 +95563,7 @@ use_preset_vocabulary: false
 长濑琴乃	ih;pd ll;dl qn;wj nl;pg
 长濑纯	ih;pd ll;dl ip;st
 长濑裕树	ih;pd ll;dl yu;yg uu;md
-长濑都子	ih;pd ll;dl db;ev zi;aa
+长濑都子	ih;pd ll;dl du;ev zi;aa
 长濑麻奈	ih;pd ll;dl ma;gl nl;du
 长爪魔王	ih;pd vk;pd mo;gm wh;aa
 长生	ih;pd ug;na
@@ -96192,7 +96191,7 @@ use_preset_vocabulary: false
 关谷纯	gr;qd gu;bk ip;st
 关谷鸣	gr;qd gu;bk my;kn
 关辉雄	gr;qd hv;gj xs;vh
-关都地区	gr;qd db;ev di;ty qu;ki
+关都地区	gr;qd du;ev di;ty qu;ki
 关野知子	gr;qd ye;ly vi;uk zi;aa
 关野萝可	gr;qd ye;ly lo;cl ke;dk
 关野露子	gr;qd ye;ly lu;yl zi;aa
@@ -97624,7 +97623,7 @@ use_preset_vocabulary: false
 阳光鼠尾草	yh;eo gd;ea uu;ju wz;um ck;cz
 阳向心美	yh;eo xd;pk xn;dd mz;dy
 阳哀花	yh;eo ai;wy hw;ch
-阳坂美都子	yh;eo bj;tf mz;dy db;ev zi;aa
+阳坂美都子	yh;eo bj;tf mz;dy du;ev zi;aa
 阳夏木蜜柑	yh;eo xw;wz mu;ad mi;ib gj;mg
 阳夏诺诺	yh;eo xw;wz no;yr no;yr
 阳奈坂伊澄	yh;eo nl;du bj;tf yi;ry ig;dd
@@ -97955,7 +97954,7 @@ use_preset_vocabulary: false
 雌火龙娘	ci;vc ho;dd ls;ad nd;nl
 雌蕊雄蕊与夜蝶	ci;vc rv;cr xs;vh rv;cr yu;aa ye;wd dx;im
 雌猪厚脸皮不洁女	ci;vc vu;qv hb;iz lm;oa pi;ad bu;ad jx;dj nv;aa
-雌都	ci;vc db;ev
+雌都	ci;vc du;ev
 雌雄双股剑	ci;vc xs;vh ud;yy gu;ou jm;da
 雒越	lo;vg yt;zy
 雕像	dc;vv xd;rx
@@ -98379,7 +98378,7 @@ use_preset_vocabulary: false
 雨宫真夜	yu;ad gs;bl vf;uj ye;wd
 雨宫秋	yu;ad gs;bl qq;hh
 雨宫穗乃香	yu;ad gs;bl sv;hh nl;pg xd;ho
-雨宫美都	yu;ad gs;bl mz;dy db;ev
+雨宫美都	yu;ad gs;bl mz;dy du;ev
 雨宫芽衣	yu;ad gs;bl ya;cy yi;dd
 雨宫莲	yu;ad gs;bl lm;cl
 雨宫萤	yu;ad gs;bl yy;ci
@@ -98706,7 +98705,7 @@ use_preset_vocabulary: false
 雪豹悲歌	xt;yx bk;vu bz;xf ge;qg
 雪貂	xt;yx dc;vv
 雪那	xt;yx na;el
-雪都沙绪梨	xt;yx db;ev ua;du xu;sv li;ml
+雪都沙绪梨	xt;yx du;ev ua;du xu;sv li;ml
 雪乡游梦记	xt;yx xd;ap yb;dz mg;mx ji;yj
 雪野五月	xt;yx ye;ly wu;aa yt;oy
 雪野加奈惠	xt;yx ye;ly jw;lk nl;du hv;xh
@@ -98807,7 +98806,6 @@ use_preset_vocabulary: false
 云玩家	yp;es wj;wy jw;bu
 云碧谣	yp;es bi;ub yk;yf
 云端	yp;es dr;le
-云端岁朝	yp;es dr;le sv;ux ik;ou
 云缨	yp;es yy;sy
 云考	yp;es kk;lk
 云联动	yp;es lm;eg ds;ly
@@ -99658,9 +99656,9 @@ use_preset_vocabulary: false
 雾葬	wu;yw zh;cc
 雾里	wu;yw li;aa
 雾谷希	wu;yw gu;bk xi;ju
-雾都	wu;yw db;ev
-雾都吸血鬼	wu;yw db;ev xi;kj xt;pa gv;pd
-雾都孤姬	wu;yw db;ev gu;zg ji;ni
+雾都	wu;yw du;ev
+雾都吸血鬼	wu;yw du;ev xi;kj xt;pa gv;pd
+雾都孤姬	wu;yw du;ev gu;zg ji;ni
 雾间留美华	wu;yw jm;mo lq;td mz;dy hw;uh
 雾隐梨花	wu;yw yn;ej li;ml hw;ch
 雾雨优兔	wu;yw yu;ad yb;ry tu;dd
@@ -101410,7 +101408,7 @@ use_preset_vocabulary: false
 风速狗	fg;ji su;zu gb;qj
 风过也	fg;ji go;zc ye;gg
 风过耳	fg;ji go;zc er;aa
-风都侦探	fg;ji db;ev vf;rv tj;fm
+风都侦探	fg;ji du;ev vf;rv tj;fm
 风酱	fg;ji jd;yx
 风野	fg;ji ye;ly
 风野浅葱	fg;ji ye;ly qm;dj cs;cc
@@ -102419,7 +102417,7 @@ use_preset_vocabulary: false
 驹里驹气	ju;mj li;aa ju;mj qi;py
 驹谷昌男	ju;mj gu;bk ih;oo nj;tl
 驹込阿祖祖	ju;mj yu;zr aa;ek zu;uq zu;uq
-驹都英二	ju;mj db;ev yy;cy er;aa
+驹都英二	ju;mj du;ev yy;cy er;aa
 驹鸟莲华	ju;mj nc;na lm;cl hw;uh
 驾御吧御夫座	jw;mj yu;xx ba;kb yu;xx fu;ad zo;gz
 驾着太阳驾着月亮	jw;mj ve;yo tl;dd yh;eo jw;mj ve;yo yt;oy ld;wj
@@ -102953,7 +102951,7 @@ use_preset_vocabulary: false
 高森奈津美	gk;wk sf;ml nl;du jn;dy mz;dy
 高森奈津美和松井惠理子的大致是这样的	gk;wk sf;ml nl;du jn;dy mz;dy he;hk ss;mg jy;aa hv;xh li;wl zi;aa de;bu da;ad vi;wv ui;op ve;zw yh;my de;bu
 高森奈津美和松井惠理子的大致是这样的感觉	gk;wk sf;ml nl;du jn;dy mz;dy he;hk ss;mg jy;aa hv;xh li;wl zi;aa de;bu da;ad vi;wv ui;op ve;zw yh;my de;bu gj;xx jt;dj
-高森朝雄	gk;wk sf;ml ik;ou xs;vh
+高森朝雄	gk;wk sf;ml vk;ou xs;vh
 高森紫音	gk;wk sf;ml zi;sc yn;lo
 高森蓝子	gk;wk sf;ml lj;cj zi;aa
 高森谅	gk;wk sf;ml ld;yj
@@ -103041,7 +103039,7 @@ use_preset_vocabulary: false
 高濑亚贵子	gk;wk ll;dl ya;ay gv;ba zi;aa
 高濑右光	gk;wk ll;dl yb;ku gd;ea
 高濑智章	gk;wk ll;dl vi;ov vh;lz
-高濑朝季	gk;wk ll;dl ik;ou ji;hz
+高濑朝季	gk;wk ll;dl vk;ou ji;hz
 高濑木叶	gk;wk ll;dl mu;ad ye;ku
 高濑梨绪	gk;wk ll;dl li;ml xu;sv
 高濑树庭梦	gk;wk ll;dl uu;md ty;gt mg;mx
@@ -104211,10 +104209,10 @@ use_preset_vocabulary: false
 魔道祖师	mo;gm dk;zu zu;uq ui;ab
 魔道祖师泡面番	mo;gm dk;zu zu;uq ui;ab pk;db mm;aa fj;tb
 魔达	mo;gm da;zd
-魔都	mo;gm db;ev
-魔都地下铁少女	mo;gm db;ev di;ty xw;ab tx;ju uk;xp nv;aa
-魔都地铁萌化项目组	mo;gm db;ev di;ty tx;ju mg;cm hw;rb xd;yg mu;aa zu;sq
-魔都精兵的奴隶	mo;gm db;ev jy;mq by;qb de;bu nu;ny li;ad
+魔都	mo;gm du;ev
+魔都地下铁少女	mo;gm du;ev di;ty xw;ab tx;ju uk;xp nv;aa
+魔都地铁萌化项目组	mo;gm du;ev di;ty tx;ju mg;cm hw;rb xd;yg mu;aa zu;sq
+魔都精兵的奴隶	mo;gm du;ev jy;mq by;qb de;bu nu;ny li;ad
 魔铃	mo;gm ly;jl
 魔钟洞	mo;gm vs;jv ds;dt
 魔链影士	mo;gm lm;jl yy;pj ui;aa
